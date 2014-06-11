@@ -1,0 +1,16 @@
+#Site Info
+name: "iamnotaninvestor"
+description: "Tales of a new investor"
+
+author: "iamnotaninvestor"
+
+url: "http://www.iamnotaninvestor.com"
+baseurl: ""
+
+markdown: rdiscount
+permalink: :year/:month/:title.html
+pygments: true
+
+# Google Analytics
+ga_domain: iamnotaninvestor.com
+ga_tracking_id: UA-51767912-1
