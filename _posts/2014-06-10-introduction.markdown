@@ -17,7 +17,7 @@ b) I'm speculating, not investing.
 c) I plan to daytrade and not purchase stocks for the long term.
 
 ###About Me  
-I work as a software developer and have no (ZERO!) formal training or other experience investing in the stock market, nor do I have any market-insider friends. I am of reasonable intelligence, want to learn and have decided that the best way to do so is by jumping in. I've have $10,000 that I'm willing to invest and can tolerate losing. 'Tolerate' being the operative... In the short-to-medium term I'd like to double that figure via my returns. In the long term I would like to day-trade full time from home. Hopefully on a lake somewhere. We'll have to wait and see if either is feasible.
+I work as a software developer and have no (ZERO!) formal training or other experience investing in the stock market, nor do I have any market-insider friends. I am of reasonable intelligence, want to learn and have decided that the best way to do so is by jumping in. I have $10,000 that I'm willing to invest and can tolerate losing. 'Tolerate' being the operative... In the short-to-medium term I'd like to double that figure via my returns. In the long term I would like to day-trade full time from home. Hopefully on a lake somewhere. We'll have to wait and see if either is feasible.
 
 ###Why the Anonymity?  
 It's not a huge deal, but all being equal I'd prefer to keep my finances private. Perhaps when I'm actually making some money on the market I won't care as much. We'll see.

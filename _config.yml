@@ -15,3 +15,6 @@ pygments: true
 # Google Analytics
 ga_domain: iamnotaninvestor.com
 ga_tracking_id: UA-51767912-1
+
+gems:
+- jekyll-sitemap
