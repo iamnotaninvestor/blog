@@ -12,7 +12,7 @@ I am not an investor. The title is a play on the fact that:
 
 a) At this point in time I'm just starting out and I really don't know what I'm doing. 
 
-b) I'm speculating, not investing.
+b) I'm speculating, not investing. 
 
 c) I plan to daytrade and not purchase stocks for the long term.
 
