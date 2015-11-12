@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Das Trader Hotkeys"
-date:   2015-10-23 17:03:00
+date:   2015-12-23 17:03:00
 ---
 
 Alt and Numberpad + key - 
