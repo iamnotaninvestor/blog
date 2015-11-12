@@ -311,9 +311,9 @@ ul.posts li a { color: #fff; text-decoration: none; }
 
 section#single-wrap {
   width: 100%;
-  max-width: 780px;
+  max-width: 1200px;
   margin: 20px auto;
-  font-family: 'Lora', Georgia, serif;
+  font-family: Helvetica,'Lora', Georgia, serif;
   background: #fff;
   z-index: 1;
 }
@@ -361,7 +361,7 @@ section#single-wrap .feat a.popup {
 section#single-wrap h1.page-title {
   font-size: 180%;
   line-height: 135%;
-  font-family: 'Open Sans', sans-serif;
+  font-family: Helvetica,'Open Sans', sans-serif;
   text-align: center;
   margin: 0 0 60px;
   padding: 0 40px;
