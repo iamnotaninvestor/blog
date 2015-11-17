@@ -42,7 +42,9 @@ p, small, blockquote { -webkit-font-smoothing: antialiased; }
 ul li { list-style-type: circle; }
 ol li { list-style-type: decimal; }
 a         { color: #39f; }
+a.feed    { color: orange; }
 a:hover   { color: #444; }
+
 /*a:visited { color: #31f; }*/
 
 
@@ -270,13 +272,19 @@ footer small { text-transform: uppercase; }
 }
 
 .icon-twitter:before {
-  content: "\e002";
+  content: "\e901";
 }
 
 
-.icon-feed:before {
-  content: "\e002";
+.icon-feed:before {   
+  content: "\e902";
 }
+
+
+.icon-facebook:before {
+  content: "\e900";
+}
+
 
 /*.icon-github:before {
   content: "\e003";
