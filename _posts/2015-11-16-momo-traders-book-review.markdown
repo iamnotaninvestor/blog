@@ -2,6 +2,8 @@
 layout: post
 title:  "Momo Traders - Book Review"
 date:   2015-11-23 17:03:00
+keywords: "momo trader, momo trader review, brady dahl, day trading book, day trading book review"
+description: "A review of book Momo Traders by Brady Dahl"
 ---
 
 

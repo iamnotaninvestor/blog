@@ -2,6 +2,8 @@
 layout: post
 title:  "The Great Unravelling"
 date:   2015-11-12 19:33:24
+description: "Analysis of some bad day trades"
+keywords: "day trading lessons, day trading lessons learned"
 ---
 
 The month was June, 2014. Life was good. Every day the sun shone just a little longer and a little higher in the sky. And every day, for a while at least, my trades (almost all blue chip tech stocks. some IPOs, some not.) provided exciting returns for my somewhat meager outlay. Life was indeed good. But, beginner's luck is fickle. And, as I found out very quickly, luck was all I had in my arsenal.

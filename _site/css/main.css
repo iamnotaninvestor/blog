@@ -258,7 +258,7 @@ footer small { text-transform: uppercase; }
   font-style: normal;
 }
 
-.icon-twitter, .icon-github, .icon-dribbble, .icon-instagram {
+.icon-twitter, .icon-github, .icon-dribbble, .icon-instagram, .icon-feed {
   font-family: 'icomoon';
   speak: none;
   font-style: normal;
@@ -272,6 +272,12 @@ footer small { text-transform: uppercase; }
 .icon-twitter:before {
   content: "\e002";
 }
+
+
+.icon-feed:before {
+  content: "\e002";
+}
+
 /*.icon-github:before {
   content: "\e003";
 }
