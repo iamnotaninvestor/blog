@@ -1,20 +1,11 @@
 ---
 layout: post
-title:  "Tradingsim.com Review"
-date:   2015-12-15 17:03:00
+title:  "The Daily Trading Coach - Review"
+date:   2015-12-05 17:03:00
 ---
 
 
 > **Product Review Policy**: I make every reasonable effort to provide honest and impartial product reviews. Unless explicitly stated, I have no relationship  or affiliation with the product's author/vendor and do not receive any form of remuneration or incentive for my reviews. Affiliate links to the product (used to generate revenue) will *not* be explicitly stated. If a review copy is provided by the author/vendor I will explicitly disclose this information.
 
-- Beta version is *really* nice
-- Felt nerves at first
-
-#Paper Trading....Really?
-Would you prefer to lose real money?
-- Cheapest place to learn trade
-
-
-#Things that I didn't like
-- I wish it was setup a little more like Das Trader (montage window per chart, etc.)
-- Because it's a web app you're limited to the number of trade "windows" you can have open, etc.
+- Bite sized nuggets
+- **Easy** to read one chapter a day
