@@ -8,7 +8,7 @@ author: "iamnotaninvestor"
 url: "http://www.iamnotaninvestor.com"
 baseurl: ""
 
-markdown: rdiscount
+markdown: kramdown
 permalink: :year/:month/:title.html
 pygments: true
 
