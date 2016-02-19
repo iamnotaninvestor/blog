@@ -2,6 +2,8 @@
 layout: post
 title:  "Three Simple Trading Rules for Novice Day Traders"
 date:   2016-02-17 17:03:00
+keywords: "day trading, day trading for beginners, rookie day trader, novice day trader, day trading rules"
+description: "A beginners guide to day trading"
 ---
 
 This post attempts to condense all of my early trading mistakes into a few simple rules. Before we start, you need to realize that you are not special. When it comes to day trading, you can expect the same trials and tribulations as anyone else. Statistics suggest that you will fail. You are not an outlier and if you expect quick success you are going to be disappointed. Beginners luck, if you have have any, will quickly dry up and you will realize that you are not exceptional - if you were, you probably wouldn't be reading this blog. Be humble, remain patient while you pay your dues and learn your lessons well. If you are unwilling to do so you'll wash out like so many before you.
