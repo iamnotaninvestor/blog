@@ -4,11 +4,95 @@
   <id>http://www.iamnotaninvestor.com</id>
   <link href="http://www.iamnotaninvestor.com" />
   <link href="http://www.iamnotaninvestor.com/atom.xml" rel="self" />
-  <updated>2016-02-18T23:13:38-05:00</updated>
+  <updated>2016-04-03T16:38:39-04:00</updated>
   <rights>Copyright 2014, iamnotaninvestor</rights>
   <author>
     <name>iamnotaninvestor</name>
   </author>
+  
+    <entry>
+      <title>Tradervue.com - Review</title>
+      <link href="http://www.iamnotaninvestor.com/2016/03/2016-03-29-tradervue-review.html" />
+      <summary type="html">&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Product Review Policy&lt;/strong&gt;: I make every reasonable effort to provide honest and impartial product reviews. Unless explicitly stated, I have no relationship  or affiliation with the product’s author/vendor and do not receive any form of remuneration or incentive for my reviews. Affiliate links to the product (used to generate revenue) will &lt;em&gt;not&lt;/em&gt; be explicitly stated. If a review copy is provided by the author/vendor I will explicitly disclose this information.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.tradervue.com/?friendref=9003/&quot;&gt;Tradervue&lt;/a&gt; advertises itself as the “trading journal that will help improve your trading performance”. To me, the disciplined execution of a well-reasoned plan is much more rewarding than a lucky windfall. As such, keeping a trading journal is vital and it’s important to have a good system in place. You may have noticed that I have a &lt;a href=&quot;http://www.tradervue.com/?friendref=9003/&quot;&gt;Tradervue&lt;/a&gt; affiliate link at the bottom of this site. I’m obviously a fan so let me walk you through what I like, and what I think could be improved. &lt;strong&gt;Note:&lt;/strong&gt; There are three pricing tiers available: Free, Silver and Gold. This review is based on my experiences as a paying Gold tier subscriber. &lt;/p&gt;
+
+&lt;h2 id=&quot;the-good&quot;&gt;The Good&lt;/h2&gt;
+&lt;p&gt;You’ll be forgiven if you feel underwhelmed upon logging into Tradervue for the first time. There is nothing flashy about the site nor is it particularly sexy. The color scheme is flat, perhaps even a little dated, and the screens feel somewhat sparse, especially on a high resolution display. Don’t let its looks fool you. I’ve developed software professionally for many years and have learned not to be impressed by flashy graphics or stock images. In software development, as in life, style is easy. Substance is much more difficult. Tradervue prioritizes substance over style. &lt;/p&gt;
+
+&lt;p&gt;First thing’s first. Tradervue is a very capable trading journal. Journaling is straightforward and the site has all of the mechanics you’d expect, exactly where you’d expect to find them. Notes can be added both to individual trades and also to the trading day itself. The note editor supports the use of rich text (as expected) and the insertion of images and even youtube videos - the latter making it easy to retain scans and video plans with journal entries. Custom tags can be used to categorize trades. It’s all very simple.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/tradervue/journal.png&quot; alt=&quot;Journal view&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There’s a note on the trade entry page that reads: &lt;strong&gt;“Note! This form creates a trade to be matched later with execution data imported from your broker”&lt;/strong&gt;. This is where things start to get interesting. Tradervue offers two mechanisms to take the heavy lifting out of journaling. 1) The site integrates with various brokers allowing trade executions to be imported instead of entered manually. This reduces tedium and increases accuracy. What started out as a luxury is something I would now find difficult to live without. 2) The system allows trades to be entered without needing to wait around for them to complete. What does this mean and why is it important? Well, imagine you’re trading AAPL and have bought 1000 shares. You can immediately start journaling and document your thoughts throughout the day, despite the fact that you have not yet sold those shares and have not imported any data for that trade from your broker. Later, when you import your trading data, your trade executions will automatically be reconciled with your journal entry. All of your data will be in the right place, without any manual effort required on your part. This might sound small, but the ability to journal in real-time, versus trying to summarize your thought process after the fact, is extremely beneficial. There’s a lot of value here.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“&lt;em&gt;Tradervue’s true value lies in its myriad of reports and metrics.&lt;/em&gt;”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Tradervue’s true value lies in its myriad of reports and metrics. Once you have some trading data in the system, it’s time to dig into the site’s seemingly interminable charts, graphs and data tables. There are far too many for me to adequately cover in this post, so I’ll share a few of my favorites. The &lt;em&gt;Trades View&lt;/em&gt; screen displays trades in tabular form, and columns can be configured as desired (my only frustration is the seemingly arbitrary restriction allowing only 12 columns). Though simple, I used this screen constantly to get an eagle-eye view of my trades. I configured the screen to show not only my (net) P&amp;amp;L, but also the Best Exit and Exit Efficiency. In the screenshot below, I’ve highlighed how, what look like decent trades (given my small position), could have been significantly better. This kind of insight - seeing that I was leaving a lot of money on the table - prompted me to reevaluate how I was trading winners.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/tradervue/exitefficiency.png&quot; alt=&quot;Screenshot of dashboard&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I also found myself revisiting the &lt;em&gt;Detailed Report&lt;/em&gt;, often. This report is a trove of useful statistics and charts (the latter not visible in the screenshot below). Something you’ll probably notice in the below screenshot, that is common across Tradervue, is the ability to filter and configure the data to find exactly what you’re looking for. As a trader of small positions, avoiding commission grinding is extremely important to me - so I appreciate the ability to easily switch between Net and Gross figures. I also frequently filtered based on trade side (long or short) and tags I used when reviewing my trades, making it easy to quantify the cost of chases, early exits and other bad habits that I previously identified.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/tradervue/statistics.png&quot; alt=&quot;Screenshot of statistics&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Before Tradervue I used a spreadsheet to track trading performance. It took a lot of manual effort to update and moreso to derive any real insight related to my trading performance. Tradervue provides numerous options to break down trading performance based on the instrument being traded, market factors (what was SPY/USO/etc. doing), time of day, price and volume and more. This information is very actionable. Here I learned that I lost the most money trading during the lull (read: boredom trading), I should stay away from certain tickers and how I trade when SPY is up or down. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/tradervue/databreakdown.png&quot; alt=&quot;Screenshot of statistics&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Presented above are some of my favorite reports available in Tradervue. It’s important to note that this review has barely scratched the surface of what is available - there are many other charts and reports that I haven’t mentioned. In the interest of brevity I’ve highlighed only those that I used most frequently.  &lt;/p&gt;
+
+&lt;h2 id=&quot;the-bad&quot;&gt;The Bad&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.tradervue.com/?friendref=9003/&quot;&gt;Tradervue&lt;/a&gt; works well and provides a lot of value. I ran into few issues using the software religously for 3 months. When I did reach out to the support team, I received answers to my questions very quickly. I’m a big fan and there is nothing that would stop me from recommending this software. That said, there is always room for improvement.&lt;/p&gt;
+
+&lt;p&gt;Let’s talk about pricing. For the record, I don’t think Tradervue is expensive. In fact, for those already profitably trading, the Gold tier is a no brainer. It is an excellent journaling tool that provides plenty of actionable insight into trading performance. One such insight could potentially cover the cost of the software for a long time. Unfortunately I wasn’t consistently profitable when signing up. My perspective was that of a beginner day trader. The free tier didn’t provide much value to me, due to its limited reporting and trade restrictions (100 trades per month at time of writing). The silver tier, at $29 per month was reasonably priced but hamstrung by the lack of exit analysis, risk analysis and commissions and fees - all things that I considered vital for my style of trading. So, the choice was to invest $29 per month in a package that didn’t give me everything I needed or pay a ~40% markup for the $49 per month Gold tier. As much as I love Tradervue it is non-essential compared to the many other fees/costs associated with day trading. I’m not complaining - Tradervue are entitled to charge whatever they feel appropriate for their service. However, pricing is something that caused me pause hence its inclusion in this review.&lt;/p&gt;
+
+&lt;p&gt;Next up, the missing killer feature. Tradervue captures an immense amount of data and provides many metrics, but it could leverage more number crunching and advanced analytics to provide even more intelligent insight to end users. The biggest frustration for me is that the site didn’t leverage the data it gathers to provide trading insight using natural language. I wish that upon logging into  the system, Tradervue would slap me in the face with suggestions like &lt;strong&gt;“We noticed that 68% of time that you trade the oil sector you lose money”&lt;/strong&gt; or &lt;strong&gt;“You chase trades in the morning. On average this week, waiting an extra 5 minutes for entry would have resulted in 10% more profit”&lt;/strong&gt;. Most of the data appears to be in the system already, additional data could be derived from tick-by-tick chart data, and the development team appears to have the technical chops to carry something like this off. I only wonder if, for legal reasons, they simply cannot provide such feedback lest it be considered investment advice. I suspect that this is not the case; as I said earlier much of the data is already present, but in a different form.&lt;/p&gt;
+
+&lt;p&gt;I encountered two minor annoyances related to the importing of trading data from my broker. Firstly, DAS Trader doesn’t 
+currently allow 3rd parties to import its data during the day. So, I had to wait until midnight to actually see my charts and trading data. This is a DAS issue, not a Tradervue issue, and if enough people request earlier access to their data, perhaps it will happen. A workaround exists - the user can export the data to CSV from DAS and then import the CSV in Tradervue - but this completely diminishes the value of this mechanism. Secondly, there is no mechanism allowing data to be auto imported when available in the broker’s system. The ability to schedule Tradervue to pull data from DAS on a nightly basis would have been a step in the right direction, if imperfect, but unfortunately this is not possible in its current incarnation.&lt;/p&gt;
+
+&lt;p&gt;Finally, the lack of a mobile app is a somewhat glaring ommission. The ability to view past trades and ticker summaries while on the go, but mobile apps are not yet available on any platform. As this is a premium service, such features are exected.&lt;/p&gt;
+
+&lt;h2 id=&quot;in-closing&quot;&gt;In Closing&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.tradervue.com/?friendref=9003/&quot;&gt;Tradervue&lt;/a&gt; is a fantastic tool, both in terms of how easy it is to log trades and also the many insights it provides into trading performance. The team adds new features frequently and I’m always excited to see what is coming next. My bottom line for day traders is simple - if you can afford the Gold tier, then this software is great and will likely cast some light on trading deficincies you were not aware of.&lt;/p&gt;
+</summary>
+      <id>http://www.iamnotaninvestor.com/2016/03/2016-03-29-tradervue-review.html</id>
+      <updated>2016-03-29T13:03:00-04:00</updated>
+      <author>
+        <name>iamnotaninvestor</name>
+      </author>
+    </entry>
+  
+    <entry>
+      <title>Three Simple Trading Rules for Novice Day Traders</title>
+      <link href="http://www.iamnotaninvestor.com/2016/02/2016-02-16-rules-to-trade-by.html" />
+      <summary type="html">&lt;p&gt;This post attempts to condense all of my early trading mistakes into a few simple rules. Before we start, you need to realize that you are not special. When it comes to day trading, you can expect the same trials and tribulations as anyone else. Statistics suggest that you will fail. You are not an outlier and if you expect quick success you are going to be disappointed. Beginners luck, if you have have any, will quickly dry up and you will realize that you are not exceptional - if you were, you probably wouldn’t be reading this blog. Be humble, remain patient while you pay your dues and learn your lessons well. If you are unwilling to do so you’ll wash out like so many before you.&lt;/p&gt;
+
+&lt;h5 id=&quot;keep-it-simple&quot;&gt;1. Keep it simple&lt;/h5&gt;
+&lt;p&gt;Separating the signal from the noise is crucially important. &lt;strong&gt;Firstly&lt;/strong&gt;, as you begin your day trading journey many outlets (print/digital/social media/chatrooms/alert services/etc.) will attempt to sell you products and services. There are countless individuals and organizations willing to educate or provide real time entries for free or for profit. More isn’t always better. As you jump between products and gurus, you waste time and capital. Find something that appeals to your style and your strengths and follow it exclusively. Exhaust one medium before switching to another. Worst case scenario, you’ll learn the limitations of the method at hand, guiding your next choice. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Secondly&lt;/strong&gt;, as you trade it’s easy to overburden yourself with indicators and overlays and all manner of sexy tools that do little more than slow you down. Remember, if it isn’t essential, then it serves only to add cognitive overhead. The less overhead, the easier it is to make split-second decisions. &lt;/p&gt;
+
+&lt;h5 id=&quot;have-your-own-plan&quot;&gt;2. Have YOUR OWN plan&lt;/h5&gt;
+&lt;p&gt;Have a plan. Study charts, create scans, set up alerts &lt;em&gt;before&lt;/em&gt; market open. Do your due diligence. Make sure that the plan is your own, even if the trade idea originates with someone else. You have a unique risk tolerance and psychological makeup that must be factored into the equation when planning your trades. There are good gurus and bad gurus out there. The market moves fast and even a benevolent guru won’t be able to help when a trade goes against you. Never ever follow blindly.&lt;/p&gt;
+
+&lt;p&gt;So, what do you need? You need to know your trade direction (long/short), desired entry price, how much you are willing to risk, and your desired reward. You need to know if the ticker in question is thinly traded and you need to know the bid/ask spread. Know your risk and potential reward with every single scan. If the potential reward isn’t there, stay away - it’s not worth your time. &lt;em&gt;Write your trade plan on paper&lt;/em&gt; and review after the fact. Don’t trade unless you are 100% comfortable with your plan. If you plan and fail, thes lessons learned will make you a stronger trader. If you copy and fail, you’ll receive nothing for your money. &lt;/p&gt;
+
+&lt;h5 id=&quot;dont-even-contemplate-using-mental-stops&quot;&gt;3. Don’t even contemplate using MENTAL stops&lt;/h5&gt;
+&lt;p&gt;If you have a plan, you’ll know where to place your stops. And if you know your stops, you possess control over your losses. If you’re new, you &lt;em&gt;must&lt;/em&gt; automate this using hard stops. The market offers unlimited opportunity. Your personal opportunity is limited by only two factors. &lt;strong&gt;Firstly,&lt;/strong&gt; you are mortal. There’s nothing we can do about that so let’s move on. &lt;strong&gt;Secondly,&lt;/strong&gt; you have finite financial resources. If you lose enough money you will stop trading, possibly for good. The best way to stop this from happening is by taking small, controlled losses. Trading is 50% strategy and 50% psychology. Your emotions will play games with you when things are going against you. Computers don’t have emotions. Set hard stops and eradicate the chance of a trade getting out of control. Yes, you will get stopped out from time to time, but you can analyze and adjust your risk for subsequent trades. Chances are that if you’re new, this is the least of your worries.&lt;/p&gt;
+</summary>
+      <id>http://www.iamnotaninvestor.com/2016/02/2016-02-16-rules-to-trade-by.html</id>
+      <updated>2016-02-17T13:39:00-05:00</updated>
+      <author>
+        <name>iamnotaninvestor</name>
+      </author>
+    </entry>
   
     <entry>
       <title>Three Simple Trading Rules for Novice Day Traders</title>
@@ -36,6 +120,170 @@
     </entry>
   
     <entry>
+      <title>2016 03 20 Stopping A Downward Spiral</title>
+      <link href="http://www.iamnotaninvestor.com/2016/02/2016-03-20-stopping-a-downward-spiral.html" />
+      <summary type="html">&lt;p&gt;2016-03-20-stopping-a-downward-spiral.markdown&lt;/p&gt;
+</summary>
+      <id>http://www.iamnotaninvestor.com/2016/02/2016-03-20-stopping-a-downward-spiral.html</id>
+      <updated>2016-02-16T14:12:33-05:00</updated>
+      <author>
+        <name>iamnotaninvestor</name>
+      </author>
+    </entry>
+  
+    <entry>
+      <title>Investors Underground - Chat Review</title>
+      <link href="http://www.iamnotaninvestor.com/2016/02/2016-02-01-investors-underground-chat-review.html" />
+      <summary type="html">&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Product Review Policy&lt;/strong&gt;: I make every reasonable effort to provide honest and impartial product reviews. Unless explicitly stated, I have no relationship  or affiliation with the product’s author/vendor and do not receive any form of remuneration or incentive for my reviews. Affiliate links to the product (used to generate revenue) will &lt;em&gt;not&lt;/em&gt; be explicitly stated. If a review copy is provided by the author/vendor I will explicitly disclose this information.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Not an alert service&lt;/li&gt;
+  &lt;li&gt;No ego allowed
+– Sometimes seems punitive
+– On the whole, it makes the room better and removes clutter&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;the-bad&quot;&gt;The Bad&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;Scans. No consistent language, meaning that it is sometimes difficult for a new user to know if the play is a long or short (or either, depending on circumstance). Obviously, if you don’t understand &lt;em&gt;why&lt;/em&gt; you’re making a certain play, you probably shouldn’t be doing it. But a little context would help develop that base understanding.&lt;/li&gt;
+&lt;/ul&gt;
+</summary>
+      <id>http://www.iamnotaninvestor.com/2016/02/2016-02-01-investors-underground-chat-review.html</id>
+      <updated>2016-02-01T12:03:00-05:00</updated>
+      <author>
+        <name>iamnotaninvestor</name>
+      </author>
+    </entry>
+  
+    <entry>
+      <title>Investors Underground - DVDs Review</title>
+      <link href="http://www.iamnotaninvestor.com/2016/01/2016-01-01-investors-underground-dvds-review.html" />
+      <summary type="html">&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Product Review Policy&lt;/strong&gt;: I make every reasonable effort to provide honest and impartial product reviews. Unless explicitly stated, I have no relationship  or affiliation with the product’s author/vendor and do not receive any form of remuneration or incentive for my reviews. Affiliate links to the product (used to generate revenue) will &lt;em&gt;not&lt;/em&gt; be explicitly stated. If a review copy is provided by the author/vendor I will explicitly disclose this information.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+</summary>
+      <id>http://www.iamnotaninvestor.com/2016/01/2016-01-01-investors-underground-dvds-review.html</id>
+      <updated>2016-01-01T12:03:00-05:00</updated>
+      <author>
+        <name>iamnotaninvestor</name>
+      </author>
+    </entry>
+  
+    <entry>
+      <title>Das Trader Hotkeys</title>
+      <link href="http://www.iamnotaninvestor.com/2015/12/2015-10-23-das-trader-hot-keys.html" />
+      <summary type="html">&lt;p&gt;Alt and Numberpad + key - 
+Alt and Numberpad - key - &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.iamnotaninvestor.com/assets/img/avatar.jpg&quot; alt=&quot;My helpful screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You can download my hotkey file &lt;a href=&quot;/assets/hotkeys/me.hk&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;ShortCut&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Command&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Description&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;CTRL-ESC&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;right-aligned&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$1600&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;col 2 is&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;centered&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$12&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;zebra stripes&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;are neat&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$1&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</summary>
+      <id>http://www.iamnotaninvestor.com/2015/12/2015-10-23-das-trader-hot-keys.html</id>
+      <updated>2015-12-23T12:03:00-05:00</updated>
+      <author>
+        <name>iamnotaninvestor</name>
+      </author>
+    </entry>
+  
+    <entry>
+      <title>Tradingsim.com Review</title>
+      <link href="http://www.iamnotaninvestor.com/2015/12/2016-02-01-tradingsim-review.html" />
+      <summary type="html">&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Product Review Policy&lt;/strong&gt;: I make every reasonable effort to provide honest and impartial product reviews. Unless explicitly stated, I have no relationship  or affiliation with the product’s author/vendor and do not receive any form of remuneration or incentive for my reviews. Affiliate links to the product (used to generate revenue) will &lt;em&gt;not&lt;/em&gt; be explicitly stated. If a review copy is provided by the author/vendor I will explicitly disclose this information.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Beta version is &lt;em&gt;really&lt;/em&gt; nice&lt;/li&gt;
+  &lt;li&gt;Felt nerves at first&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;paper-tradingreally&quot;&gt;Paper Trading….Really?&lt;/h1&gt;
+&lt;p&gt;Would you prefer to lose real money?
+- Cheapest place to learn trade&lt;/p&gt;
+
+&lt;h1 id=&quot;things-that-i-didnt-like&quot;&gt;Things that I didn’t like&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;I wish it was setup a little more like Das Trader (montage window per chart, etc.)&lt;/li&gt;
+  &lt;li&gt;Because it’s a web app you’re limited to the number of trade “windows” you can have open, etc.&lt;/li&gt;
+&lt;/ul&gt;
+</summary>
+      <id>http://www.iamnotaninvestor.com/2015/12/2016-02-01-tradingsim-review.html</id>
+      <updated>2015-12-15T12:03:00-05:00</updated>
+      <author>
+        <name>iamnotaninvestor</name>
+      </author>
+    </entry>
+  
+    <entry>
+      <title>The Daily Trading Coach - Review</title>
+      <link href="http://www.iamnotaninvestor.com/2015/12/2016-02-04-past-lessons.html" />
+      <summary type="html">&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Product Review Policy&lt;/strong&gt;: I make every reasonable effort to provide honest and impartial product reviews. Unless explicitly stated, I have no relationship  or affiliation with the product’s author/vendor and do not receive any form of remuneration or incentive for my reviews. Affiliate links to the product (used to generate revenue) will &lt;em&gt;not&lt;/em&gt; be explicitly stated. If a review copy is provided by the author/vendor I will explicitly disclose this information.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Bite sized nuggets&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Easy&lt;/strong&gt; to read one chapter a day&lt;/li&gt;
+&lt;/ul&gt;
+</summary>
+      <id>http://www.iamnotaninvestor.com/2015/12/2016-02-04-past-lessons.html</id>
+      <updated>2015-12-05T12:03:00-05:00</updated>
+      <author>
+        <name>iamnotaninvestor</name>
+      </author>
+    </entry>
+  
+    <entry>
+      <title>The Daily Trading Coach - Review</title>
+      <link href="http://www.iamnotaninvestor.com/2015/12/2015-12-05-the-daily-trading-coach-review.html" />
+      <summary type="html">&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Product Review Policy&lt;/strong&gt;: I make every reasonable effort to provide honest and impartial product reviews. Unless explicitly stated, I have no relationship  or affiliation with the product’s author/vendor and do not receive any form of remuneration or incentive for my reviews. Affiliate links to the product (used to generate revenue) will &lt;em&gt;not&lt;/em&gt; be explicitly stated. If a review copy is provided by the author/vendor I will explicitly disclose this information.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Bite sized nuggets&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Easy&lt;/strong&gt; to read one chapter a day&lt;/li&gt;
+&lt;/ul&gt;
+</summary>
+      <id>http://www.iamnotaninvestor.com/2015/12/2015-12-05-the-daily-trading-coach-review.html</id>
+      <updated>2015-12-05T12:03:00-05:00</updated>
+      <author>
+        <name>iamnotaninvestor</name>
+      </author>
+    </entry>
+  
+    <entry>
       <title>Momo Traders - Book Review</title>
       <link href="http://www.iamnotaninvestor.com/2015/11/momo-traders-book-review.html" />
       <summary type="html">&lt;blockquote&gt;
@@ -44,14 +292,14 @@
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/momotraders.jpg&quot; alt=&quot;Photo of Momo Traders book&quot; /&gt;&lt;/p&gt;
 
-&lt;h5 id=&quot;introduction&quot;&gt;Introduction&lt;/h5&gt;
+&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;I am a paying member of the Investors Underground (IU) chat room and have purchased both IU training DVDs. I’m a fan of both and will be reviewing them in subsequent blog posts. As such, I was familiar, by reputation, with a number of traders interviewed in this book prior to purchasing it. In fact, I learned about this book from a tweet by Nathan Michaud, founder of IU. While Nate’s name is included in the title’s byline (and he serves as an interviewee) his contribution with regard to the book’s content appears limited. This is neither a good thing, nor a bad thing, just a note.&lt;/p&gt;
 
 &lt;p&gt;Initially, I had a couple of concerns about &lt;a href=&quot;http://www.momotraders.com/&quot;&gt;Momo Traders&lt;/a&gt;. Firstly, I worried that it would be a fluff title, leveraging the IU subscriber base to quickly sell a book of inferior quality to the community. This turned out not to be the case, and the book stands on its own two feet as you’ll soon see.&lt;/p&gt;
 
 &lt;p&gt;Secondly, at double the cost of many of the trading paperbacks at my local bookstore, the price ($42, including $5 shipping) felt a little high at first. Oddly, I didn’t explore this misgiving until writing this blog post. My concern was founded on the shaky tenet that only a thick technical manual should cost so much and that this, as a paperback and more casual read, would not justify the price. Obviously this is nonsensical and, if you learn even one thing from this book, your outlay will be repaid many times over - there aren’t many industries where an investment in skills reaps such a significant and measurable return. Add to this that a portion of the book’s profits goes to charity and $40 seems eminently reasonable.&lt;/p&gt;
 
-&lt;h5 id=&quot;the-good&quot;&gt;The Good&lt;/h5&gt;
+&lt;h2 id=&quot;the-good&quot;&gt;The Good&lt;/h2&gt;
 &lt;p&gt;This book reminded me in many ways of &lt;em&gt;Founders at Work&lt;/em&gt;, an extremely popular book among software startups, by Jessica Livingston. This is a very good thing. Written by Brady Dahl, &lt;em&gt;Momo Traders&lt;/em&gt; is composed of the author’s interviews with numerous momentum traders (and even a swing trader) who provide their insights, outline their strategies and speak about their ups and downs and their early days in the stock market. &lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -64,12 +312,12 @@
 
 &lt;p&gt;Since chapters comprise of single interviews, they lend themselves to be good stopping points, making the book easy to pick up and put down. I read it over the course of a weekend and was genuinely saddened when I reached the end. New traders will get a feel for the road ahead and a better understanding of the roadblocks their predecessors faced and some universal bad habits to avoid. Even experienced traders will be able to glean enough insight to better their own trading. Because it is a compilation of interviews the book isn’t at all opinionated. It never prescribes how one should trade. Each trader interviewed has his/her own trading style and I was surprised by the diversity of strategies employed by the interviewed traders. This, to me, was the most valuable facet of &lt;em&gt;Momo Traders&lt;/em&gt; as it broadened my understanding of what is possible and why people trade the way they do. My copy is striped with luminous yellow highlights and scribbled margin-notes and this is one of very few books that I own that I will take the time to read again.&lt;/p&gt;
 
-&lt;h5 id=&quot;the-bad&quot;&gt;The Bad&lt;/h5&gt;
+&lt;h2 id=&quot;the-bad&quot;&gt;The Bad&lt;/h2&gt;
 &lt;p&gt;Momo Traders really doesn’t have any major deficiencies. Forced to provide some critical feedback, I’d first point to the lack of an interview with the author. I would have liked to have an extra chapter with an interview of Brady Dahl himself to hear more about his trading background and insights into his strategies. As a former writer on &lt;em&gt;Sons of Anarchy&lt;/em&gt; he has an interesting backstory and as the writer of Momo Traders he has a unique vantage point that could have been leveraged. This was an opportunity lost. &lt;/p&gt;
 
 &lt;p&gt;Another &lt;em&gt;tiny&lt;/em&gt; change I would make would be to modify the ordering of the chapters so that the book would have ended on a chapter about momentum trading and not on swing trading. Note: the chapter on swing trading was insighftul in its own right, and definitely deserving of a place elsewhere in the book. This is a personal preference but finishing the title with a topic that I was less interested in was somewhat anti-climactic.&lt;/p&gt;
 
-&lt;h5 id=&quot;in-closing&quot;&gt;In Closing&lt;/h5&gt;
+&lt;h2 id=&quot;in-closing&quot;&gt;In Closing&lt;/h2&gt;
 &lt;p&gt;I thoroughly enjoyed this book and and will be looking forward to the next installment, assuming there is one. It’s extremely approachable and there’s a little something for everyone.&lt;/p&gt;
 </summary>
       <id>http://www.iamnotaninvestor.com/2015/11/momo-traders-book-review.html</id>
@@ -84,14 +332,14 @@
       <link href="http://www.iamnotaninvestor.com/2015/11/the-great-unravelling.html" />
       <summary type="html">&lt;p&gt;The month was June, 2014. Life was good. Every day the sun shone just a little longer and a little higher in the sky. And every day, for a while at least, my trades (almost all blue chip tech stocks. some IPOs, some not.) provided exciting returns for my somewhat meager outlay. Life was indeed good. But, beginner’s luck is fickle. And, as I found out very quickly, luck was all I had in my arsenal.&lt;/p&gt;
 
-&lt;h3 id=&quot;brzg&quot;&gt;BRZG&lt;/h3&gt;
+&lt;h2 id=&quot;brzg&quot;&gt;BRZG&lt;/h2&gt;
 &lt;p&gt;Ah, Brazilian Gold (BRZG). It started with a tweet. A tweet from a guru intent on causing a ticker to move. After a couple of minutes I was up $1000. Not a massive sum, no. BUT quite a nice return for clicking a couple of buttons…I’ve worked at least 40 hours a week, every single week, for as long as I can remember. Some people &lt;em&gt;like&lt;/em&gt; to work. For me, it’s a means to an end. I make a nice salary but up to this point in my life I’d never before made so much money so quickly. Visions of an easy and prosperous future clouded my judgement. I was up $1000 and should hae exited the trade, or at the very least sized down. But I didn’t.&lt;/p&gt;
 
 &lt;p&gt;The guru (supposedly) waited for a secondary push. So, I waited. The bid thinned up. And I waited. Profits were all but wiped out. And I waited. I broke all of my rules. Then I broke them again. I waited some more. A week later, down $2200, I swallowed my pride and got out of the trade. &lt;/p&gt;
 
 &lt;p&gt;I don’t know if the guru was being honest, or if he used his following to move the ticker and take his profits at the expense of his audience. Maybe it was a pump and dump, maybe intentions were more pure - I really don’t care. I had numerous opportunities to take a profit, numerous opportunities to size down and reduce my risk, numerous opporunities to minimize my loss. But I didn’t take those opportunities. The market is never wrong. Other traders are my competitors. The loss was entirely my fault.&lt;/p&gt;
 
-&lt;h3 id=&quot;a-chart-and-a-humorous-aside&quot;&gt;A chart, and a humorous aside&lt;/h3&gt;
+&lt;h2 id=&quot;a-chart-and-a-humorous-aside&quot;&gt;A chart, and a humorous aside&lt;/h2&gt;
 &lt;p&gt;Below is the chart for BRZG around the time of my trade. I believe my entry was on 08/08/2014, but can’t remember with certainty. I have no idea when my exit was (probably a week later) but watch the chart grind down thereafter. I’d like to think that if I had been doing my own analysis, rather than blindly following a guru, I would have looked at the daily chart and realized that this ticker was going anywhere but up. The observant are probably asking why I’m talking about BRZG, but showing a CNXS chart. BRZG, Brazilian Gold, is now CNXS…Conexus Cattle Corp. I’m all for companies pivoting but you have to question the future of a company that moves from gold prospecting to cattle.&lt;/p&gt;
 
 &lt;div style=&quot;margin:40px&quot;&gt;
@@ -109,13 +357,13 @@ new TradingView.chart(tradingview_embed_options);
 
 &lt;!-- TradingView Chart END --&gt;
 
-&lt;h3 id=&quot;losses-add-up&quot;&gt;Losses Add Up&lt;/h3&gt;
+&lt;h2 id=&quot;losses-add-up&quot;&gt;Losses Add Up&lt;/h2&gt;
 &lt;p&gt;I spent another couple of weeks trading after my BRZG loss. I had numerous small profits and one large loss. The ticker was ZLCS (now EPRS?). For the second time in a couple of weeks I lost more than $1000 on a single trade. My win/loss ratio was pretty good but my risk management was non-existent. I fell into the common habit of cutting my winners but letting my losers ride, so each loss killed at lease three wins. It became quickly evident that if I stayed in the game, I would blow up my account. I stopped trading with the goal of learning my trade prior to investing more money. A smart move, in hindsight, and better late than never.&lt;/p&gt;
 
-&lt;h3 id=&quot;the-noise-the-noise&quot;&gt;The Noise, The Noise!!!&lt;/h3&gt;
+&lt;h2 id=&quot;the-noise-the-noise&quot;&gt;The Noise, The Noise!!!&lt;/h2&gt;
 &lt;p&gt;It would be incorrect to attribute my losses to a single cause. Many issues and many broken rules led to my bad trading, and the premature pause in my trading career. I’ll cover the big ones in upcoming posts but, if there is only one piece of advice I can offer new traders it’s to &lt;strong&gt;keep things simple&lt;/strong&gt;. I read many books, consumed thousands of tweets, dug into trading indicator after indicator, studied as many obscure chart patterns as I could get my hands on, downloaded every trading app available and frequented every notable trading site on the interwebs. I thought that the more information I could get my hands on, the better prepared i’d be. But I was wrong. In the trading world, especially for novices, information overload leads to inertia. With so much noise, it is difficult to know in which direction to move. So you don’t move. Or you move too slowly. Or, even worse, you blindly follow the herd. Reduce the noise as much as you possibly can. Forget about social media. Improve your focus. Concentrate on the basics - there’ll be plenty of time for nuance later. If you start with a simple approach but lose money, you’ll be in a better position to understand why. You’ll learn and grow from the loss and, hopefully, be a better trader for it.&lt;/p&gt;
 
-&lt;h3 id=&quot;whats-next&quot;&gt;What’s Next?&lt;/h3&gt;
+&lt;h2 id=&quot;whats-next&quot;&gt;What’s Next?&lt;/h2&gt;
 &lt;p&gt;So, here we are. After a year out of the market my sabbatical is drawing to a close. After much soulsearching, researching and studying I’m ready to dip my toes in the water again. So, I’m giving this blog a reboot. I’ve cleaned up past posts and in the next few months I’m going to document the lessons I learned over the past 12 months and record my future trading successes and failures. Wish me luck!&lt;/p&gt;
 
 </summary>
