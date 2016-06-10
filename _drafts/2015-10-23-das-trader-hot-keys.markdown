@@ -4,6 +4,9 @@ title:  "Das Trader Hotkeys"
 date:   2015-12-23 17:03:00
 ---
 
+This is a living list of DAS Trader hot keys, last updated on April 10th, 2016.
+
+
 Alt and Numberpad + key - 
 Alt and Numberpad - key - 
 

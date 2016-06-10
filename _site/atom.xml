@@ -4,15 +4,27 @@
   <id>http://www.iamnotaninvestor.com</id>
   <link href="http://www.iamnotaninvestor.com" />
   <link href="http://www.iamnotaninvestor.com/atom.xml" rel="self" />
-  <updated>2016-04-03T16:38:39-04:00</updated>
+  <updated>2016-06-10T18:05:36-04:00</updated>
   <rights>Copyright 2014, iamnotaninvestor</rights>
   <author>
     <name>iamnotaninvestor</name>
   </author>
   
     <entry>
+      <title>Chat with Traders podcast (a.k.a there is such thing as a free lunch)</title>
+      <link href="http://www.iamnotaninvestor.com/2016/06/2016-06-10-chat-with-traders.html" />
+      <summary type="html">&lt;p&gt;A couple of weeks ago I happened upon the &lt;a href=&quot;https://chatwithtraders.com/&quot;&gt;Chat with Traders podcast&lt;/a&gt;. In his weekly podcast the show’s host Aaron Fifield interviews well known and influential traders. I’m enamored with the podcast and have listened to 12 episodes so far; I’m currently averaging an episode a day. The podcast isn’t specific to daytrading or even stock trading, but I’ve found the diversity of guests and viewpoints extremely interesting and most of the lessons proffered by interviewees (short term traders/long term traders/hedge fund managers/options traders/etc.) to be applicable to day trading. A while back &lt;a href=&quot;/2015/11/momo-traders-book-review.html&quot;&gt;I reviewed Momo Traders&lt;/a&gt;. &lt;em&gt;Chat With Traders&lt;/em&gt; is similarly entertaining and insightful and, if you liked one, you’ll probably like the other. &lt;em&gt;Chat With Traders&lt;/em&gt; is free and available &lt;a href=&quot;https://chatwithtraders.com/podcast/&quot;&gt;online&lt;/a&gt; and in &lt;a href=&quot;https://itunes.apple.com/us/podcast/chat-traders-weekly-interviews/id957265404&quot;&gt;iTunes&lt;/a&gt;. I highly recommend you check it out - if you like it be sure to leave a review!&lt;/p&gt;
+</summary>
+      <id>http://www.iamnotaninvestor.com/2016/06/2016-06-10-chat-with-traders.html</id>
+      <updated>2016-06-10T14:03:00-04:00</updated>
+      <author>
+        <name>iamnotaninvestor</name>
+      </author>
+    </entry>
+  
+    <entry>
       <title>Tradervue.com - Review</title>
-      <link href="http://www.iamnotaninvestor.com/2016/03/2016-03-29-tradervue-review.html" />
+      <link href="http://www.iamnotaninvestor.com/2016/04/tradervue-review.html" />
       <summary type="html">&lt;blockquote&gt;
   &lt;p&gt;&lt;strong&gt;Product Review Policy&lt;/strong&gt;: I make every reasonable effort to provide honest and impartial product reviews. Unless explicitly stated, I have no relationship  or affiliation with the product’s author/vendor and do not receive any form of remuneration or incentive for my reviews. Affiliate links to the product (used to generate revenue) will &lt;em&gt;not&lt;/em&gt; be explicitly stated. If a review copy is provided by the author/vendor I will explicitly disclose this information.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -62,8 +74,8 @@ currently allow 3rd parties to import its data during the day. So, I had to wait
 &lt;h2 id=&quot;in-closing&quot;&gt;In Closing&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;http://www.tradervue.com/?friendref=9003/&quot;&gt;Tradervue&lt;/a&gt; is a fantastic tool, both in terms of how easy it is to log trades and also the many insights it provides into trading performance. The team adds new features frequently and I’m always excited to see what is coming next. My bottom line for day traders is simple - if you can afford the Gold tier, then this software is great and will likely cast some light on trading deficincies you were not aware of.&lt;/p&gt;
 </summary>
-      <id>http://www.iamnotaninvestor.com/2016/03/2016-03-29-tradervue-review.html</id>
-      <updated>2016-03-29T13:03:00-04:00</updated>
+      <id>http://www.iamnotaninvestor.com/2016/04/tradervue-review.html</id>
+      <updated>2016-04-03T12:40:00-04:00</updated>
       <author>
         <name>iamnotaninvestor</name>
       </author>
@@ -175,7 +187,9 @@ currently allow 3rd parties to import its data during the day. So, I had to wait
     <entry>
       <title>Das Trader Hotkeys</title>
       <link href="http://www.iamnotaninvestor.com/2015/12/2015-10-23-das-trader-hot-keys.html" />
-      <summary type="html">&lt;p&gt;Alt and Numberpad + key - 
+      <summary type="html">&lt;p&gt;This is a living list of DAS Trader hot keys, last updated on April 10th, 2016.&lt;/p&gt;
+
+&lt;p&gt;Alt and Numberpad + key - 
 Alt and Numberpad - key - &lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://www.iamnotaninvestor.com/assets/img/avatar.jpg&quot; alt=&quot;My helpful screenshot&quot; /&gt;&lt;/p&gt;

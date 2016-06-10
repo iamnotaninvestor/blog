@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Chat with Traders podcast (a.k.a there is such thing as a free lunch)"
+date:   2016-06-10 18:03:00
+---
+
+A couple of weeks ago I happened upon the [Chat with Traders podcast](https://chatwithtraders.com/). In his weekly podcast the show's host Aaron Fifield interviews well known and influential traders. I'm enamored with the podcast and have listened to 12 episodes so far; I'm currently averaging an episode a day. The podcast isn't specific to daytrading or even stock trading, but I've found the diversity of guests and viewpoints extremely interesting and most of the lessons proffered by interviewees (short term traders/long term traders/hedge fund managers/options traders/etc.) to be applicable to day trading. A while back [I reviewed Momo Traders]({% post_url 2015-11-16-momo-traders-book-review %}). *Chat With Traders* is similarly entertaining and insightful and, if you liked one, you'll probably like the other. *Chat With Traders* is free and available [online](https://chatwithtraders.com/podcast/) and in [iTunes](https://itunes.apple.com/us/podcast/chat-traders-weekly-interviews/id957265404). I highly recommend you check it out - if you like it be sure to leave a review!
