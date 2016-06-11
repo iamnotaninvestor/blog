@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Chat with Traders podcast (a.k.a there is such thing as a free lunch)"
+title:  "Chat with Traders podcast (a.k.a there really is such a thing as a free lunch)"
 date:   2016-06-10 18:03:00
 ---
 
