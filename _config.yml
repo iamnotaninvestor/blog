@@ -10,6 +10,7 @@ baseurl: ""
 
 markdown: kramdown
 permalink: :year/:month/:title.html
+highlighter: rouge
 pygments: true
 
 # Google Analytics
