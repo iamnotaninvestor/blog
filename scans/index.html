@@ -1,0 +1,33 @@
+---
+layout: default
+title: Day Trading Scans
+---
+
+<div id="home">
+
+<h1 style="margin-left:40px;">Day Trading Scan Archive</h1>
+
+
+    {% for post in site.categories['scans'] %}
+
+
+
+
+  <ul class="posts">
+   
+
+      <li itemscope itemtype="http://schema.org/BlogPosting">
+        <a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">
+          <div class="p-wrap">
+            <time datetime="{{ post.date | date_to_xmlschema }}" class="date"
+                itemprop="datePublished">
+              {{ post.date | date_to_string }}
+            </time>
+            <p itemprop="name headline">{{ post.title }}</p>
+          </div>
+        </a>
+      </li>
+
+    {% endfor %}
+  </ul>
+</div>
