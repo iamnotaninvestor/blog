@@ -11,6 +11,7 @@ I'm trying to find a structure for my scans. The 'Why' seems important, as do le
 
 WFM (ATR: 83c. ^VIX: 20.14 from 20.50)
 ---
+**Bias**: Short
 
 **Why**: While potentially oversold, has closed at lows with increasing volume last 3 days. Expect another day or two of downward pressure before reversal. The last bearish pattern lasting 6 days or more was in October 2015 and lasted 8 days. Similar setup this time around.
 
