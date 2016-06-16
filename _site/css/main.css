@@ -315,7 +315,8 @@ ul.posts li .p-wrap p { display: inline; margin-bottom: 0; }
 ul.posts li .date { color: #2671C8; padding-right: 20px; }
 ul.posts li a { color: #fff; text-decoration: none; }
 
-
+ul.posts.scans li .p-wrap { background: silver; }
+ul.posts li .date { color: #fff; padding-right: 20px; }
 /*****************************************************************************/
 /*
 /* Post View

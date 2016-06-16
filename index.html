@@ -4,8 +4,33 @@ title: Homepage
 ---
 
 <div id="home">
-  <ul class="posts">
+
+
+
+{% assign latest_scan = site.categories['scans'].first %}
+  {% if latest_scan %}
+   <ul class="posts scans">
+<li itemscope itemtype="http://schema.org/BlogPosting">
+            <a href="{{ site.baseurl }}{{ latest_scan.url }}" itemprop="url">
+                <div class="p-wrap">
+                    <time datetime="{{ latest_scan.date | date_to_xmlschema }}" class="date" itemprop="datePublished">
+                        {{ latest_scan.date | date_to_string }}
+                    </time>
+                    <p itemprop="name headline">{{ latest_scan.title }}</p>
+                </div>
+            </a>
+        </li>
+        </ul>
+        <br />
+{% endif %}
     {% for post in site.posts %}
+
+
+
+
+  <ul class="posts">
+    {% unless post.category == "scans"%}
+
       <li itemscope itemtype="http://schema.org/BlogPosting">
         <a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">
           <div class="p-wrap">
@@ -17,6 +42,8 @@ title: Homepage
           </div>
         </a>
       </li>
+
+{% endunless %}
     {% endfor %}
   </ul>
 </div>

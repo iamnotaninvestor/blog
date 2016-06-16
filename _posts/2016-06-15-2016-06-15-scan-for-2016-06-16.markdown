@@ -1,0 +1,27 @@
+---
+title: Latest Scan - For Trading Date 2016.06.16
+layout: post
+category: scans
+---
+
+Overview
+--- 
+I'm trying to find a structure for my scans. The 'Why' seems important, as do levels of interest and potential theses. This will be refined as I go.
+
+
+WFM (ATR: 83c. ^VIX: 20.14 from 20.50)
+---
+
+**Why**: While potentially oversold, has closed at lows with increasing volume last 3 days. Expect another day or two of downward pressure before reversal. The last bearish pattern lasting 6 days or more was in October 2015 and lasted 8 days. Similar setup this time around.
+
+**Levels of Interest**:
+
+* Resistance: $31, $31.20
+* Support: ~$30.28
+
+**Thesis 1**: Strong Open
+- If breaks above $31 watch today's $31.20 level. This was tested 3 times but not broken. Expect resistance here. I'll wait for a move back below $31 before trading this name.
+
+**Thesis 2**: Weak Open
+- Ideally tests $31 and fails, then lower highs. Risk off of $31 with ideal entry in .80s or .90s
+
