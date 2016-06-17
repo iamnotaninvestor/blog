@@ -1,0 +1,66 @@
+---
+title: Day Trading Scan For Trading Date 2016.06.17
+layout: post
+category: scans
+---
+
+Overview
+--- 
+I'm trying to find a structure for my scans. The 'Why' seems important, as do levels of interest and potential theses. This will be refined as I go.
+
+**Disclaimer:** I am not a broker or dealer. I am not qualified nor do I wish to offer investment or financial advice. I am publishing these trades for my own educational purposes. My theses may be incorrect and trading these tickers may result in financial loss/ruin. All trades undertaken are done so at your own risk.
+
+***
+
+WFM (ATR: $0.83. ^VIX: 19.37 from 20.14)
+---
+**Bias**: Long
+
+**Why**: I had this as a short yesterday, thinking it might have a few more down days. I have no intention of trying to pick the bottom, but want this on scan for when it turns. It is getting oversold and I think it has a green day in it soon.
+
+**Thesis:**
+Needs to break above $31 and hold that level before I have any interest. After that wait for $31.20 level to hold and risk off $31.
+
+**Levels of Interest**:
+
+* Resistance: $31, $31.20
+* Support: ~$30.28
+
+***
+
+BBBY (ATR: $1.08. ^VIX: 19.37 from 20.14)
+---
+**Bias**: Long
+
+**Why**: I think this is oversold. There appears to be support at 42 and despite being a red day, the price closed near the top of the trading range and not far off the close 2 days ago. 
+
+**Plan:**
+Needs to hold 42. Looking for a weak open and demonstration of 42 support followed by upward move.
+
+**Levels of Interest**:
+
+* Resistance: $43
+* Support: $42
+
+***
+
+Z (ATR: $1.08. ^VIX: 19.37 from 20.14)
+---
+**Bias**: Short
+
+**Why**: Getting into overbough territory. Not convinced that it will reverse tomorrow, but if SPY is bearish could have a red day. This could easily go the opposite direction, so need to be careful
+
+**Plan:**
+Will only trade it 33 fails to hold and shows lower highs. Long term breakout potential at 33.45 - don't want to be in a trade when this breaks
+
+**Levels of Interest**:
+
+* Resistance: $33.45
+* Support: $31.90
+
+***
+
+
+
+
+
