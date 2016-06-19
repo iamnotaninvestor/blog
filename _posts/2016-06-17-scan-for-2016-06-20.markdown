@@ -1,0 +1,87 @@
+---
+title: Day Trading Scan For Trading Date 2016.06.20
+layout: post
+category: scans
+---
+
+Overview
+--- 
+I'm trying to find a structure for my scans. The 'Why' seems important, as do levels of interest and potential theses. This will be refined as I go.
+
+**Disclaimer:** I am not a broker or dealer. I am not qualified nor do I wish to offer investment or financial advice. I am publishing these trades for my own educational purposes. My theses may be incorrect and trading these tickers may result in financial loss/ruin. All trades undertaken are done so at your own risk.
+
+***
+
+SPLK (ATR: $1.78. ^VIX: 19.37 from 20.14)
+---
+**Bias**: Short
+
+**Why**: Getting into overbought territory. Failed 60 push 3 times. 
+
+**Plan:**
+
+* Tests 58 multiple times but fails to hold. Watch for lower highs and risk off 58
+* If 58 holds watch waht this does at 60. Not expecting this to happen in one day, but will keep on watch.
+
+**Levels of Interest**:
+
+* Resistance: $58, $60
+* Support: $55.50
+
+***
+
+RAX (ATR: $0.93. ^VIX: 19.37 from 20.14)
+---
+**Bias**: Short
+
+**Why**: I think this has a green day coming soon but, since 5 of the last 6 red candles have closed at the day's low, I think it has further to drop.
+
+**Plan:**
+Looking for early fade with a fixed risk on day's open.
+
+**Levels of Interest**:
+
+* Resistance: $23.50
+* Support: $21.35
+
+***
+
+WFM (ATR: $0.83. ^VIX: 19.41 from 19.37)
+---
+**Bias**: Long
+
+**Why**: Same as yesterday. Waiting for a short term reversal. I have no intention of trying to pick the bottom, but want this on scan for when it turns. It is getting oversold and I think it has a green day in it soon. I like the $30.20s and $30 for potential support.
+
+**Plan:**
+Needs to hold $30 and make higher lows before I have any interest. This can keep moving downward, so will treat with care.
+
+**Levels of Interest**:
+
+* Resistance: $31, $31.20
+* Support: ~$30.28
+
+***
+
+Z (ATR: $1.08. ^VIX: 19.37 from 20.14)
+---
+**Bias**: Short
+
+**Why**: Same as yesterday. Getting into overbought territory. Not convinced that it will reverse tomorrow, but if SPY is bearish could have a red day. This could easily continue rising, so need to be careful
+
+**Plan:**
+34 is key level here. Will only trade it 34 fails to hold and shows lower highs.
+
+**Levels of Interest**:
+
+* Resistance: $34
+* Support: $32
+
+***
+
+
+
+
+
+
+
+
