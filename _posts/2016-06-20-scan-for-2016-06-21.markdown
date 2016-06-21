@@ -1,0 +1,72 @@
+---
+title: Day Trading Scan For Trading Date 2016.06.21
+layout: post
+category: scans
+---
+
+Overview
+--- 
+I'm trying to find a structure for my scans. The 'Why' seems important, as do levels of interest and potential theses. This will be refined as I go.
+
+**Disclaimer:** I am not a broker or dealer. I am not qualified nor do I wish to offer investment or financial advice. I am publishing these trades for my own educational purposes. My theses may be incorrect and trading these tickers may result in financial loss/ruin. All trades undertaken are done so at your own risk.
+
+***
+
+YELP (Previous Close: <mark>28.44</mark> | ATR: <mark>$0.90</mark> | ^VIX: 18.20 from 19.41)
+---
+**Bias**: Short
+
+**Why**: Getting into overbought territory. Failed 28.80 push today and closed low given the range on the day.
+
+**Plan:**
+
+* Ideally <mark>28.80 push and fail</mark>, then re-test and fail. If push and fail will short with risk at this level. If 28.80 breaks and holds will not trade as this could push to 29 and beyond.
+
+**Levels of Interest**:
+
+* Resistance: $28.80
+* Support: $26.50
+
+***
+
+Z (Previous Close: <mark>34.76</mark> | ATR: <mark>$1.11</mark> | ^VIX: 18.20 from 19.41)
+---
+**Bias**: Short
+
+**Why**: Getting into overbought territory. 5 green candles in a row.
+
+**Plan:**
+
+* I'd like to see <mark>35 push and fail</mark>. Wait for confirmation of fail and lower highs.
+
+**Levels of Interest**:
+
+* Resistance: $35
+* Support: $32
+
+***
+
+HTZ (Previous Close: <mark>11.08</mark> | ATR: <mark>$0.58</mark> | ^VIX: 18.20 from 19.41)
+---
+**Bias**: Long
+
+**Why**: Strong upward move. Has consolidated a bit and looks to be pushing towards prior high at 11.50.
+
+**Plan:**
+
+* Needs to hold 11 and make upward progress. Big magnet at 11.50
+
+**Levels of Interest**:
+
+* Resistance: $11.50
+* Support: $10.25
+
+***
+
+
+
+
+
+
+
+
