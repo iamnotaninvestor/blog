@@ -27,6 +27,7 @@ YELP (Previous Close: <mark>28.44</mark> | ATR: <mark>$0.90</mark> | ^VIX: 18.20
 * Resistance: $28.80
 * Support: $26.50
 
+
 ***
 
 Z (Previous Close: <mark>34.76</mark> | ATR: <mark>$1.11</mark> | ^VIX: 18.20 from 19.41)
@@ -43,6 +44,7 @@ Z (Previous Close: <mark>34.76</mark> | ATR: <mark>$1.11</mark> | ^VIX: 18.20 fr
 
 * Resistance: $35
 * Support: $32
+
 
 ***
 
@@ -63,10 +65,17 @@ HTZ (Previous Close: <mark>11.08</mark> | ATR: <mark>$0.58</mark> | ^VIX: 18.20 
 
 ***
 
+Paper Trades (Section Added: 2016-06-21 18:32:36):
+---
+Need to be more patient. Overall plans were good, but in earlier than I would have liked.
 
-
-
-
-
+<div style="height:500px; width:100%">
+<div style="float:left; margin-right:100px;">
+<script src='https://www.tradervue.com/sharedt.js?id=4667451&width=464'></script>
+</div>
+<div style="float:left;">
+<script src='https://www.tradervue.com/sharedt.js?id=4667452&width=464'></script>
+</div>
+</div>
 
 

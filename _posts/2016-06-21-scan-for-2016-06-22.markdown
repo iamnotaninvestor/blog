@@ -1,0 +1,95 @@
+---
+title: Day Trading Scan For Trading Date 2016.06.22
+layout: post
+category: scans
+---
+
+Overview
+--- 
+Moving forward my goal is to have good long and short options every day, ideally providing setups regardless of the general market trend. In the short term my goals are a) to diversify my screeners to catch more oppportunities b) to trade by alerts rather than watching these tickers and anticipating trades and c) to log the trades (paper, for now) that I do make (see the revision to yesterday's scans)
+
+**Disclaimer:** I am not a broker or dealer. I am not qualified nor do I wish to offer investment or financial advice. I am publishing these trades for my own educational purposes. My theses may be incorrect and trading these tickers may result in financial loss/ruin. All trades undertaken are done so at your own risk.
+
+***
+
+GRUB (Previous Close: <mark>29.78</mark> | ATR: <mark>$1.11</mark>)
+---
+**Bias**: Short
+
+**Why**: Getting into overbought territory. Failed 28.80 push today and closed low given the range on the day.
+
+**Trade Plan:** Ideally <mark>30 push and fail</mark>, then confirmation. If push and fail will short with risk at this level. 
+
+**Levels of Interest**:
+
+* Resistance: $30,$30.50
+* Support: $29
+
+***
+
+SPLK (Previous Close: <mark>59.56</mark> | ATR: <mark>$1.11</mark>)
+---
+**Bias**: Short
+
+**Why**: Had this on scans previously. Felt it was moving into overbought territory and still feel that way. Waiting for a red day. Still failing to break through 60 so could be at key level.
+
+**Trade Plan:** <mark>Tests 60 multiple times but fails to hold</mark>. Watch for lower highs and risk off 60. I have zero interest in shorting if this holds 60.
+
+
+**Levels of Interest**:
+
+* Resistance: $60
+* Support: $58
+
+***
+
+YELP (Previous Close: <mark>28.56</mark> | ATR: <mark>$0.90</mark>)
+---
+**Bias**: Short
+
+**Why**: Keeping this on scan. Still think this is getting into overbought territory. Less volume and not much upward movement despite being a green day.
+
+**Plan:**
+
+* Ideally <mark>28.80 push and fail</mark>, then re-test and fail. If push and fail will short with risk at this level. I envision this fading early (especially if SPY shows downward trend) in which case I'd consider risking off .50s.
+
+**Levels of Interest**:
+
+* Resistance: $28.80, $28.50
+* Support: $26.50
+
+***
+
+MBLY (Previous Close: <mark>40.86</mark> | ATR: <mark>$1.30</mark>)
+---
+**Bias**: Short
+
+**Why**: I think this may consolidate prior to push through 41. Short candle finished middle of the trading range today suggests battle between buyers and sellers.
+
+**Plan:**
+
+* Ideally <mark>41 push and fail</mark>, then re-test and fail. If push and fail will short with risk at this level. If this breaks 41 and keeps moving upwards, I won't touch the trade
+
+**Levels of Interest**:
+
+* Resistance: $41
+* Support: $39.72
+
+***
+
+RAX (Previous Close: <mark>22.58</mark> | ATR: <mark>$0.83</mark>)
+---
+**Bias**: Long
+
+**Why**: I think this has a green day coming soon. Last 2 days have finished mid/high on the day's range and on the daily chart it looks like this may be at the very bottom of a trading channel that began on 03/24.
+
+**Plan:**
+Looking for test of channel (right around 22.30s) and proof of support. Will risk off this level for a move towards 23.
+
+**Levels of Interest**:
+
+* Resistance: $23
+* Support: $22.30s (channel), $22.20s (prior low), 
+
+
+
