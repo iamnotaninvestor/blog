@@ -1,0 +1,76 @@
+---
+title: Day Trading Scan For Trading Date 2016.06.23
+layout: post
+category: scans
+---
+
+Overview
+--- 
+Moving forward my goal is to have good long and short options every day, ideally providing setups regardless of the general market trend. In the short term my goals are a) to diversify my screeners to catch more oppportunities b) to trade by alerts rather than watching these tickers and anticipating trades and c) to log the trades (paper, for now) that I do make (see the revision to yesterday's scans)
+
+**Disclaimer:** I am not a broker or dealer. I am not qualified nor do I wish to offer investment or financial advice. I am publishing these trades for my own educational purposes. My theses may be incorrect and trading these tickers may result in financial loss/ruin. All trades undertaken are done so at your own risk.
+
+***
+
+PLAY (Previous Close: <mark>46.16</mark> | ATR: <mark>$1.43</mark>)
+---
+**Bias**: Short
+
+**Why**: Big upward run then some consolidation and 3 red days in a row. Finished at low of days today with increasing volume. I suspect downward trend will continue for a day or two.
+
+**Trade Plan:**  Push towards 47 then fade *OR* drops below 46, re-tests and continues to fade
+
+**Levels of Interest**:
+
+* Resistance: $47, $48, $48.80
+* Support: $46.10, $46, all half and whole dollars between 46 and 44
+
+***
+
+GRUB (Previous Close: <mark>29.85</mark> | ATR: <mark>$1.11</mark>)
+---
+**Bias**: Short
+
+**Why**: Same plan as today. Not much upward movement. Getting into overbought territory. Failed 28.80 push today and closed low given the range on the day.
+
+**Trade Plan:** Ideally <mark>30 push and fail</mark>, then confirmation. If push and fail will short with risk at this level. 
+
+**Levels of Interest**:
+
+* Resistance: $30,$30.50
+* Support: $29
+
+***
+
+YELP (Previous Close: <mark>28.32</mark> | ATR: <mark>$0.90</mark>)
+---
+**Bias**: Short
+
+**Why**: Same plan as today. Still think this is getting into overbought territory. Less volume and not much upward movement despite being a green day.
+
+**Trade Plan:**  Ideally <mark>28.80 push and fail</mark>, then re-test and fail. If push and fail will short with risk at this level. I envision this fading early (especially if SPY shows downward trend) in which case I'd consider risking off .50s.
+
+**Levels of Interest**:
+
+* Resistance: $28.80, $28.50
+* Support: $26.50
+
+***
+
+DAL (Previous Close: <mark>38.55</mark> | ATR: <mark>$1.05</mark>)
+---
+**Bias**: Long
+
+**Why**: Feels overbought. Today was red day but, despite increased volume, only closed 2 cents below opening price. I feel this will have push towards $40 in short term.
+
+**Trade Plan:**  Want to see this holding $38 and making higher lows. Will not enter without strong confirmation of the above.
+
+**Levels of Interest**:
+
+* Resistance: $39, $40.60
+* Support: $38
+
+
+
+
+***

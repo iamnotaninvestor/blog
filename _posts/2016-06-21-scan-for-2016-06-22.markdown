@@ -92,4 +92,14 @@ Looking for <mark>test of channel (right around 22.30s)</mark> and proof of supp
 * Support: $22.30s (channel), $22.20s (prior low), 
 
 
+***
 
+Paper Trades (Section Added: 2016-06-22 19:21:23):
+---
+Need to be more patient. Overall plans were good, but in earlier than I would have liked.
+
+<div style="height:500px; width:100%">
+<div style="float:left; margin-right:100px;">
+<script src='https://www.tradervue.com/sharedt.js?id=4671375&width=600'></script>
+</div>
+</div>
