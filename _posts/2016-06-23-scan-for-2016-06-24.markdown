@@ -1,0 +1,98 @@
+---
+title: Day Trading Scan For Trading Date 2016.06.24
+layout: post
+category: scans
+---
+
+Overview
+--- 
+
+**Note:** Brexit will make for an interesting trading day tomorrow. I'll be interested to see how the (remain/leave) decision affects the market.
+
+Moving forward my goal is to have good long and short options every day, ideally providing setups regardless of the general market trend. In the short term my goals are a) to diversify my screeners to catch more oppportunities b) to trade by alerts rather than watching these tickers and anticipating trades and c) to log the trades (paper, for now) that I do make (see the revision to yesterday's scans)
+
+**Disclaimer:** I am not a broker or dealer. I am not qualified nor do I wish to offer investment or financial advice. I am publishing these trades for my own educational purposes. My theses may be incorrect and trading these tickers may result in financial loss/ruin. All trades undertaken are done so at your own risk.
+
+***
+
+TWTR (Previous Close: <mark>17.04</mark> | ATR: <mark>$0.56</mark>)
+---
+**Bias**: Long
+
+**Why**: Looks like it will finally fill February gap. Big candle today and closed near top of trading range. 
+
+**Trade Plan:** Hold 17 ans show higher lows. Look to risk off 17 but note the ATR (~50c) and don't overstay
+
+**Levels of Interest**:
+
+* Resistance: $17
+* Support: $17, 18
+
+***
+
+CAR (Previous Close: <mark>34.81</mark> | ATR: <mark>$1.32</mark>)
+---
+**Bias**: Short
+
+**Why**: Looks overbought. Red day today with close at low. Expect this to drop further, potentially to support at 31.25 
+
+**Trade Plan:** Strong open that fails to hold, or downward movement on open. Wait for break of 32 (and failure to hold 32) to enter. 
+
+**Levels of Interest**:
+
+* Resistance: $34.75
+* Support: $31.25
+
+
+***
+
+DAL (Previous Close: <mark>38.55</mark> | ATR: <mark>$1.05</mark>)
+---
+**Bias**: Long
+
+**Why**: Keeping on scan. Still feels oversold. Today was red day but 38 held and closed mid-candle.
+
+**Trade Plan:**  Want to see this holding $38 and making higher lows. Will not enter without strong confirmation of the above.
+
+**Levels of Interest**:
+
+* Resistance: $39, $40.60
+* Support: $38
+
+***
+
+STRZA (Previous Close: <mark>29.33</mark> | ATR: <mark>$1.02</mark>)
+---
+**Bias**: Long
+
+**Why**: Big day today on news/rumor. I want this on radar in case upward trend continues. Big magnet at 30.
+
+**Trade Plan:**  Want to see this making higher lows and breaking 30. Once higher lows put in, will risk on prior close.
+
+**Levels of Interest**:
+
+* Resistance: $30, $31, $31.26
+* Support: $28
+
+***
+
+AWK (Previous Close: <mark>78.94</mark> | ATR: <mark>$1.11</mark>)
+---
+**Bias**: Either
+
+**Why**: Trading in a nice upward channel since 2015. Huge magnet at 80. I believe this will continue upward but potentially with consolidation day along the way.
+
+**Trade Plan:** 
+
+*Short:* May encounter resistance at 79. If puts in lower highs, risk off 79
+*Long:* If breaks through 79 and holds, risk off 79 for push towards 80 and top of channel. 
+
+
+**Levels of Interest**:
+
+* Resistance: $79, $80
+* Support: $77.50
+
+***
+
+

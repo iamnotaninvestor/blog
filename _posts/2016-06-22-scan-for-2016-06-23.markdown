@@ -61,7 +61,7 @@ DAL (Previous Close: <mark>38.55</mark> | ATR: <mark>$1.05</mark>)
 ---
 **Bias**: Long
 
-**Why**: Feels overbought. Today was red day but, despite increased volume, only closed 2 cents below opening price. I feel this will have push towards $40 in short term.
+**Why**: Feels oversold. Today was red day but, despite increased volume, only closed 2 cents below opening price. I feel this will have push towards $40 in short term.
 
 **Trade Plan:**  Want to see this holding $38 and making higher lows. Will not enter without strong confirmation of the above.
 
@@ -70,7 +70,15 @@ DAL (Previous Close: <mark>38.55</mark> | ATR: <mark>$1.05</mark>)
 * Resistance: $39, $40.60
 * Support: $38
 
-
-
-
 ***
+
+Paper Trades (Section Added: 2016-06-23 19:44:55):
+---
+Thought this was an OK plan with decent execution. Could have taken profit at .80s level but was waiting for further drop.
+
+<div style="height:500px; width:100%">
+<div style="float:left; margin-right:100px;">
+<script src='https://www.tradervue.com/sharedt.js?id=4674444&width=600'></script>
+</div>
+</div>
+
