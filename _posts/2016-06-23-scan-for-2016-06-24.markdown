@@ -96,3 +96,17 @@ AWK (Previous Close: <mark>78.94</mark> | ATR: <mark>$1.11</mark>)
 ***
 
 
+Paper Trades (Section Added: 2016-06-24 17:37:39):
+---
+Brexit certainly had a big impact on the market today. Traded OK, but R:R ratio needs to be worked on. Based on trades so far it is working out at 1:1. 
+
+<div style="height:500px; width:100%">
+<div style="float:left; margin-right:100px;">
+<script src='https://www.tradervue.com/sharedt.js?id=4675859&width=464'></script>
+</div>
+<div style="float:left;">
+<script src='https://www.tradervue.com/sharedt.js?id=4675858&width=464'></script>
+</div>
+</div>
+
+
