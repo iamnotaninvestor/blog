@@ -1,0 +1,76 @@
+---
+title: Day Trading Scan For Trading Date 2016.06.27
+layout: post
+category: scans
+---
+
+Overview
+--- 
+
+**Note:** I suspect Brexit will have a lingering effect on the US market this week. Later in the week may be quiet, with the 4th of July coming up, so should make for some interesting trading.
+
+Moving forward my goal is to have good long and short options every day, ideally providing setups regardless of the general market trend. In the short term my goals are a) to diversify my screeners to catch more oppportunities b) to trade by alerts rather than watching these tickers and anticipating trades and c) to log the trades (paper, for now) that I do make (see the revision to yesterday's scans)
+
+**Disclaimer:** I am not a broker or dealer. I am not qualified nor do I wish to offer investment or financial advice. I am publishing these trades for my own educational purposes. My theses may be incorrect and trading these tickers may result in financial loss/ruin. All trades undertaken are done so at your own risk.
+
+***
+
+ADBE (Previous Close: <mark>92.20</mark> | ATR: <mark>$2.06</mark>)
+---
+**Bias**: Long
+
+**Why**: Looks oversold, especially with Friday's action. 
+
+**Trade Plan:** Not going to try to guess the bottom here but next support levels appear to be 90 and even 88.50. If market opens weak, watch these levels. Must show higher lows before I'm interested.
+
+**Levels of Interest**:
+
+* Support: $88.50, 90
+
+***
+
+TWTR (Previous Close: <mark>16.44</mark> | ATR: <mark>$0.58</mark>)
+---
+**Bias**: Long
+
+**Why**: Good upward movement and consolidation. Seems stable at 16. I think this has potential to fill gap at 17 in short term. 
+
+**Trade Plan:** Hold 16 and show higher lows. Look to risk off 16 but note the ATR (~50c) and don't overstay
+
+**Levels of Interest**:
+
+* Resistance: $16.50, 17
+* Support: $16.10
+
+***
+
+CAR (Previous Close: <mark>31.71</mark> | ATR: <mark>$1.38</mark>)
+---
+**Bias**: Short
+
+**Why**: Looks overbought. Red day today with close at low. Expect this to drop further. If it drops below 31 support may become resistance.
+
+**Trade Plan:** Watch for drop below 31 and failed re-test at this level. If 31 fails to hold, risk off this level.
+
+**Levels of Interest**:
+
+* Resistance: $31 (if fails to hold)
+* Support: $31.50, $31
+
+***
+
+AWK (Previous Close: <mark>78.94</mark> | ATR: <mark>$1.11</mark>)
+---
+**Bias**: Short
+
+**Why**: As previously mentioned, trading in a nice upward channel since 2015. Hit huge magnet at 80 on Friday but failed to hold. While this may continue upward, I'm looking for a red day to trade
+
+**Trade Plan:** 
+
+May encounter resistance at 80. If puts in lower highs, risk off 80. 
+
+**Levels of Interest**:
+
+* Resistance: $80
+* Support: $78
+
