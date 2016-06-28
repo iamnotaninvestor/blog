@@ -15,32 +15,18 @@ Moving forward my goal is to have good long and short options every day, ideally
 
 ***
 
-ADBE (Previous Close: <mark>92.20</mark> | ATR: <mark>$2.06</mark>)
+ADBE (Previous Close: <mark>90.85</mark> | ATR: <mark>$2.05</mark>)
 ---
 **Bias**: Long
 
 **Why**: Looks oversold, especially with Friday's action. 
 
-**Trade Plan:** Not going to try to guess the bottom here but next support levels appear to be 90 and even 88.50. If market opens weak, watch these levels. Must show higher lows before I'm interested.
+**Trade Plan:** Same plan as today. Not going to try to guess the bottom here but next support levels appear to be 90 and even 88.50. If market opens weak, watch these levels. Must show higher lows before I'm interested.
 
 **Levels of Interest**:
 
 * Support: $88.50, 90
 
-***
-
-TWTR (Previous Close: <mark>16.44</mark> | ATR: <mark>$0.58</mark>)
----
-**Bias**: Long
-
-**Why**: Good upward movement and consolidation. Seems stable at 16. I think this has potential to fill gap at 17 in short term. 
-
-**Trade Plan:** Hold 16 and show higher lows. Look to risk off 16 but note the ATR (~50c) and don't overstay
-
-**Levels of Interest**:
-
-* Resistance: $16.50, 17
-* Support: $16.10
 
 ***
 
@@ -48,31 +34,29 @@ CAR (Previous Close: <mark>31.71</mark> | ATR: <mark>$1.38</mark>)
 ---
 **Bias**: Short
 
-**Why**: Looks overbought. Red day today with close at low. Expect this to drop further. If it drops below 31 support may become resistance.
+**Why**: Annoyed I didn't take this trade today. Should have had alerts set up.Big red day today with close at low. This may drop further. 
 
-**Trade Plan:** Watch for drop below 31 and failed re-test at this level. If 31 fails to hold, risk off this level.
+**Trade Plan:** Ideally strong open and push above 29 that fails to hold.
 
 **Levels of Interest**:
 
-* Resistance: $31 (if fails to hold)
-* Support: $31.50, $31
+* Support: $28.80s
 
 ***
 
-AWK (Previous Close: <mark>78.94</mark> | ATR: <mark>$1.11</mark>)
+DATA (Previous Close: <mark>47.15</mark> | ATR: <mark>$1.94</mark>)
 ---
-**Bias**: Short
+**Bias**: Long
 
-**Why**: As previously mentioned, trading in a nice upward channel since 2015. Hit huge magnet at 80 on Friday but failed to hold. While this may continue upward, I'm looking for a red day to trade
+**Why**: Tech stocks are getting hammered after the Brexit vote. DATA has been hit particularly hard. It could keep tumbling, but I'm waiting for a green day to go long.
 
 **Trade Plan:** 
 
-May encounter resistance at 80. If puts in lower highs, risk off 80. 
+Looking for weak open and confirmation of support at 45. If tech sector is still in the red, I won't touch this trade.
 
 **Levels of Interest**:
 
-* Resistance: $80
-* Support: $78
+* Support: $45
 
 Paper Trades (Section Added: 2016-06-27 21:57:23):
 ---
