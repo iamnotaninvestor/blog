@@ -1,5 +1,5 @@
 ---
-title: Day Trading Scan For Trading Date 2016.06.27
+title: Day Trading Scan For Trading Date 2016.06.28
 layout: post
 category: scans
 ---
