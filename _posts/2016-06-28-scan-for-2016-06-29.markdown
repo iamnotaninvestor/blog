@@ -87,7 +87,7 @@ CCI (Previous Close: <mark>99.00</mark> | ATR: <mark>$1.23</mark>)
 {% comment %}
 ME: Overbought
 {% endcomment %}
-**Bias**: Long
+**Bias**: Short
 
 **Why**: Potentially overbought. Big upward move without much consolidation. Huge magnet at 100, but may need to consolidate before it can break through.
 
@@ -105,7 +105,7 @@ FINL (Previous Close: <mark>19.65</mark> | ATR: <mark>$0.85</mark>)
 {% comment %}
 ME: Overbought
 {% endcomment %}
-**Bias**: Long
+**Bias**: Short
 
 **Why**: This seems overbought and may be turning. Big red candle yesterday. Green day today but weak and closed below middle of trading range.
 
