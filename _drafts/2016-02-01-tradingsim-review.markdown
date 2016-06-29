@@ -1,11 +1,17 @@
 ---
 layout: post
 title:  "Tradingsim.com Review"
-date:   2015-12-15 17:03:00
+date:   2016-06-30 17:03:00
 ---
 
 
 > **Product Review Policy**: I make every reasonable effort to provide honest and impartial product reviews. Unless explicitly stated, I have no relationship  or affiliation with the product's author/vendor and do not receive any form of remuneration or incentive for my reviews. Affiliate links to the product (used to generate revenue) will *not* be explicitly stated. If a review copy is provided by the author/vendor I will explicitly disclose this information.
+
+#Thoughts on Paper Trading
+The benefits of paper trading are debatable and contentious. For me, paper trading is important up to a point. At its simplest, trading can be broken into plan and execution
+
+ I personally use two tiers of paper tradings. I use Tradingsim, which I'll review later in this post, to test strategies in my downtime. Firstly 
+
 
 - Beta version is *really* nice
 - Felt nerves at first
@@ -13,6 +19,11 @@ date:   2015-12-15 17:03:00
 #Paper Trading....Really?
 Would you prefer to lose real money?
 - Cheapest place to learn trade
+
+On the other hand
+- No skin in the game
+- Executions may work differently in real life
+- No commission/fees/etc.
 
 
 #Things that I didn't like

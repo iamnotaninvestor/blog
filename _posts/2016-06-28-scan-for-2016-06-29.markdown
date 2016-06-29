@@ -1,0 +1,119 @@
+---
+title: Day Trading Scan For Trading Date 2016.06.29
+layout: post
+category: scans
+---
+
+Overview
+--- 
+
+**Note:** I suspect Brexit will have a lingering effect on the US market this week. Later in the week may be quiet, with the 4th of July coming up, so should make for some interesting trading.
+
+Moving forward my goal is to have good long and short options every day, ideally providing setups regardless of the general market trend. In the short term my goals are a) to diversify my screeners to catch more oppportunities b) to trade by alerts rather than watching these tickers and anticipating trades and c) to log the trades (paper, for now) that I do make (see the revision to yesterday's scans)
+
+**Disclaimer:** I am not a broker or dealer. I am not qualified nor do I wish to offer investment or financial advice. I am publishing these trades for my own educational purposes. My theses may be incorrect and trading these tickers may result in financial loss/ruin. All trades undertaken are done so at your own risk.
+
+***
+
+BURL (Previous Close: <mark>63.29</mark> | ATR: <mark>$1.70</mark>)
+---
+**Bias**: Long
+
+**Why**: Long term breakout on the cards. Yesterday was red day but it looks like the bulls are still winning.  
+
+**Trade Plan:** Weak open finding support at 63. If SPY opens strong, look for higher lows with risk off prior day's close.
+
+**Levels of Interest**:
+
+* Support: $63
+
+***
+
+HRB (Previous Close: <mark>63.29</mark> | ATR: <mark>$0.59</mark>)
+---
+{% comment %}
+ME: Potential Breakout
+{% endcomment %}
+**Bias**: Long
+
+**Why**: Potential breakout on the cards. At bottom of upward trend starting approximately 5/12. Not a huge fan of the ATR here, but has already had one huge green day in June and has pitential for a big candle on volume.
+
+**Trade Plan:** Looking to confirm support at 22 (or 21.75) followed by higher lows. 
+
+**Levels of Interest**:
+
+* Support: $22, $21.75
+
+***
+
+STRZA (Previous Close: <mark>29.33</mark> | ATR: <mark>$1.02</mark>)
+---
+{% comment %}
+ME: Potential Breakout
+{% endcomment %}
+**Bias**: Long
+
+**Why**: Back on watch. Looks like the bottom of an upward trend. Breakout potential if 28.50 breaks and holds. Big magnet at 30.
+
+**Trade Plan:**  Want to see this making higher lows and holding 27.50. Once higher lows put in, will risk on prior close.
+
+**Levels of Interest**:
+
+* Resistance: $30, $31, $31.26
+* Support: $27.50
+
+***
+
+KR (Previous Close: <mark>36.05</mark> | ATR: <mark>$0.87</mark>)
+---
+{% comment %}
+ME: Potential Breakout
+{% endcomment %}
+**Bias**: Long
+
+**Why**: Potential breakout. Trying to break through top of long term channel. Past attempts 6/16, 6/27 and 6/28 have failed and this may need more time to consolidate. 
+
+**Trade Plan:**  Want to see this making higher lows and holding 36.60. Ideally pushes through 37, re-tests and confirms. Once higher lows put in, will risk on 37.
+
+**Levels of Interest**:
+
+* Resistance: $36.60, $37
+* Support: $35.88
+
+***
+
+CCI (Previous Close: <mark>99.00</mark> | ATR: <mark>$1.23</mark>)
+---
+{% comment %}
+ME: Overbought
+{% endcomment %}
+**Bias**: Long
+
+**Why**: Potentially overbought. Big upward move without much consolidation. Huge magnet at 100, but may need to consolidate before it can break through.
+
+**Trade Plan:**  Want to see this failing 100 multiple times or a weak open and lower highs, wait for pullback and get in with set risk. If this shows any strenght, or SPY is particularly strong, won't touch
+
+**Levels of Interest**:
+
+* Resistance: $100
+* Support: 96.25 (approximate bottom of upward trend)
+
+***
+
+FINL (Previous Close: <mark>19.65</mark> | ATR: <mark>$0.85</mark>)
+---
+{% comment %}
+ME: Overbought
+{% endcomment %}
+**Bias**: Long
+
+**Why**: This seems overbought and may be turning. Big red candle yesterday. Green day today but weak and closed below middle of trading range.
+
+**Trade Plan:**  Ideally strong open and failed push towards 20 or 20.50. Re-test and confirm lower highs for risk off of these levels.
+
+**Levels of Interest**:
+
+* Resistance: $20.50, $20
+* Support: $19.50, $18.50
+
+***
