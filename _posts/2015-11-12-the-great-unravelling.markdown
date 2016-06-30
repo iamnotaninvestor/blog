@@ -14,7 +14,7 @@ Ah, Brazilian Gold (BRZG). It started with a tweet. A tweet from a guru intent o
 
 The guru (supposedly) waited for a secondary push. So, I waited. The bid thinned up. And I waited. Profits were all but wiped out. And I waited. I broke all of my rules. Then I broke them again. I waited some more. A week later, down $2200, I swallowed my pride and got out of the trade. 
 
-I don't know if the guru was being honest, or if he used his following to move the ticker and take his profits at the expense of his audience. Maybe it was a pump and dump, maybe intentions were more pure - I really don't care. I had numerous opportunities to take a profit, numerous opportunities to size down and reduce my risk, numerous opporunities to minimize my loss. But I didn't take those opportunities. The market is never wrong. Other traders are my competitors. The loss was entirely my fault.
+I don't know if the guru was being honest, or if he used his following to move the ticker and take his profits at the expense of his audience. Maybe it was a pump and dump, maybe intentions were more pure - I really don't care. I had numerous opportunities to take a profit, numerous opportunities to size down and reduce my risk, numerous opportunities to minimize my loss. But I didn't take those opportunities. The market is never wrong. Other traders are my competitors. The loss was entirely my fault.
 
 A chart, and a humorous aside
 ---
@@ -41,7 +41,7 @@ new TradingView.chart(tradingview_embed_options);
 
 Losses Add Up
 ---
-I spent another couple of weeks trading after my BRZG loss. I had numerous small profits and one large loss. The ticker was ZLCS (now EPRS?). For the second time in a couple of weeks I lost more than $1000 on a single trade. My win/loss ratio was pretty good but my risk management was non-existent. I fell into the common habit of cutting my winners but letting my losers ride, so each loss killed at lease three wins. It became quickly evident that if I stayed in the game, I would blow up my account. I stopped trading with the goal of learning my trade prior to investing more money. A smart move, in hindsight, and better late than never.
+I spent another couple of weeks trading after my BRZG loss. I had numerous small profits and one large loss. The ticker was ZLCS (now EPRS?). For the second time in a couple of weeks I lost more than $1000 on a single trade. My win/loss ratio was pretty good but my risk management was non-existent. I fell into the common habit of cutting my winners but letting my losers ride, so each loss killed at least three wins. It became quickly evident that if I stayed in the game, I would blow up my account. I stopped trading with the goal of learning my trade prior to investing more money. A smart move, in hindsight, and better late than never.
 
 The Noise, The Noise!!!
 ---
