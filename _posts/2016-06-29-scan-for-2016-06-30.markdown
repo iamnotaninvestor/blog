@@ -1,0 +1,81 @@
+---
+title: Day Trading Scan For Trading Date 2016.06.30
+layout: post
+category: scans
+---
+
+Overview
+--- 
+
+**Note:** I suspect Brexit will have a lingering effect on the US market this week. Later in the week may be quiet, with the 4th of July coming up, so should make for some interesting trading.
+
+Moving forward my goal is to have good long and short options every day, ideally providing setups regardless of the general market trend. In the short term my goals are a) to diversify my screeners to catch more oppportunities b) to trade by alerts rather than watching these tickers and anticipating trades and c) to log the trades (paper, for now) that I do make (see the revision to yesterday's scans)
+
+**Disclaimer:** I am not a broker or dealer. I am not qualified nor do I wish to offer investment or financial advice. I am publishing these trades for my own educational purposes. My theses may be incorrect and trading these tickers may result in financial loss/ruin. All trades undertaken are done so at your own risk.
+
+***
+
+GRUB (Previous Close: <mark>30.53</mark> | ATR: <mark>$1.19</mark>)
+---
+**Bias**: Long
+
+**Why**: Long term breakout potential. Big green bar today and closed near top of range. 
+
+**Trade Plan:** Need confirmation of support at 30.50s followed by higher lows. If gap up, wait for pull back and higher lows.
+
+**Levels of Interest**:
+
+* Resistance: $30.50, $30.62 (prior day's top)
+* Support: $28.60s
+
+***
+
+YELP (Previous Close: <mark>29.20</mark> | ATR: <mark>$1.12</mark>)
+---
+**Bias**: Long
+
+**Why**: Long term breakout potential. Big green bar today and closed at top of range. 
+
+**Trade Plan:**  Eithertests 30 multiple times, holds and shows higher lows or pullback, higher lows with set risk on prior low.
+
+**Levels of Interest**:
+
+* Resistance: $30
+
+***
+
+CCI (Previous Close: <mark>100.33</mark> | ATR: <mark>$1.26</mark>)
+---
+{% comment %}
+ME: Overbought
+{% endcomment %}
+**Bias**: Short
+
+**Why**: Traded this badly today but still think it needs to pull backbefore going *too* much higher. Big upward move without much consolidation...
+
+**Trade Plan:** Ideally fails to hold 100 and then lower highs. Will only trade this on pullback with set risk and lower highs.
+
+**Levels of Interest**:
+
+* Resistance: $100
+* Support: 96.25 (approximate bottom of upward trend)
+
+***
+
+FINL (Previous Close: <mark>20.07</mark> | ATR: <mark>$0.83</mark>)
+---
+{% comment %}
+ME: Overbought
+{% endcomment %}
+**Bias**: Short
+
+**Why**: This still seems overbought to me. If it can't break 20.50 may have big red day.
+
+**Trade Plan:** Not going to take any risks with this one. Want to see a strong open, with failed tests of 20.50 level then lower highs. 
+
+**Levels of Interest**:
+
+* Resistance: $20.50
+
+***
+

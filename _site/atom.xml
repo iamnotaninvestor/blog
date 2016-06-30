@@ -4,7 +4,7 @@
   <id>http://www.iamnotaninvestor.com</id>
   <link href="http://www.iamnotaninvestor.com" />
   <link href="http://www.iamnotaninvestor.com/atom.xml" rel="self" />
-  <updated>2016-06-29T09:31:29-04:00</updated>
+  <updated>2016-06-29T23:16:46-04:00</updated>
   <rights>Copyright 2014, iamnotaninvestor</rights>
   <author>
     <name>iamnotaninvestor</name>
@@ -19,6 +19,13 @@
 
 &lt;h1 id=&quot;thoughts-on-paper-trading&quot;&gt;Thoughts on Paper Trading&lt;/h1&gt;
 &lt;p&gt;The benefits of paper trading are debatable and contentious. For me, paper trading is important up to a point. At its simplest, trading can be broken into plan and execution&lt;/p&gt;
+
+&lt;p&gt;There are two questions you have to ask:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Will the market behave the same way when paper trading as it does in real life? The answer is, probably not. Your orders won’t be filled, you may have more slippage or miss out on trades completely. &lt;/li&gt;
+  &lt;li&gt;Will &lt;em&gt;you&lt;/em&gt; behave the same when trading real money versus fake money. Definitely not. &lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;p&gt;I personally use two tiers of paper tradings. I use Tradingsim, which I’ll review later in this post, to test strategies in my downtime. Firstly &lt;/p&gt;
 
@@ -44,6 +51,91 @@
 </summary>
       <id>http://www.iamnotaninvestor.com/2016/06/2016-02-01-tradingsim-review.html</id>
       <updated>2016-06-30T13:03:00-04:00</updated>
+      <author>
+        <name>iamnotaninvestor</name>
+      </author>
+    </entry>
+  
+    <entry>
+      <title>Day Trading Scan For Trading Date 2016.06.30</title>
+      <link href="http://www.iamnotaninvestor.com/2016/06/scan-for-2016-06-30.html" />
+      <summary type="html">&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; I suspect Brexit will have a lingering effect on the US market this week. Later in the week may be quiet, with the 4th of July coming up, so should make for some interesting trading.&lt;/p&gt;
+
+&lt;p&gt;Moving forward my goal is to have good long and short options every day, ideally providing setups regardless of the general market trend. In the short term my goals are a) to diversify my screeners to catch more oppportunities b) to trade by alerts rather than watching these tickers and anticipating trades and c) to log the trades (paper, for now) that I do make (see the revision to yesterday’s scans)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Disclaimer:&lt;/strong&gt; I am not a broker or dealer. I am not qualified nor do I wish to offer investment or financial advice. I am publishing these trades for my own educational purposes. My theses may be incorrect and trading these tickers may result in financial loss/ruin. All trades undertaken are done so at your own risk.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;grub-previous-close-mark3053mark--atr-mark119mark&quot;&gt;GRUB (Previous Close: &lt;mark&gt;30.53&lt;/mark&gt; | ATR: &lt;mark&gt;$1.19&lt;/mark&gt;)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Bias&lt;/strong&gt;: Long&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Why&lt;/strong&gt;: Long term breakout potential. Big green bar today and closed near top of range. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Trade Plan:&lt;/strong&gt; Need confirmation of support at 30.50s followed by higher lows. If gap up, wait for pull back and higher lows.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Levels of Interest&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Resistance: $30.50, $30.62 (prior day’s top)&lt;/li&gt;
+  &lt;li&gt;Support: $28.60s&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;yelp-previous-close-mark2920mark--atr-mark112mark&quot;&gt;YELP (Previous Close: &lt;mark&gt;29.20&lt;/mark&gt; | ATR: &lt;mark&gt;$1.12&lt;/mark&gt;)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Bias&lt;/strong&gt;: Long&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Why&lt;/strong&gt;: Long term breakout potential. Big green bar today and closed at top of range. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Trade Plan:&lt;/strong&gt;  Eithertests 30 multiple times, holds and shows higher lows or pullback, higher lows with set risk on prior low.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Levels of Interest&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Resistance: $30&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;cci-previous-close-mark10033mark--atr-mark126mark&quot;&gt;CCI (Previous Close: &lt;mark&gt;100.33&lt;/mark&gt; | ATR: &lt;mark&gt;$1.26&lt;/mark&gt;)&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Bias&lt;/strong&gt;: Short&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Why&lt;/strong&gt;: Traded this badly today but still think it needs to pull backbefore going &lt;em&gt;too&lt;/em&gt; much higher. Big upward move without much consolidation…&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Trade Plan:&lt;/strong&gt; Ideally fails to hold 100 and then lower highs. Will only trade this on pullback with set risk and lower highs.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Levels of Interest&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Resistance: $100&lt;/li&gt;
+  &lt;li&gt;Support: 96.25 (approximate bottom of upward trend)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;finl-previous-close-mark2007mark--atr-mark083mark&quot;&gt;FINL (Previous Close: &lt;mark&gt;20.07&lt;/mark&gt; | ATR: &lt;mark&gt;$0.83&lt;/mark&gt;)&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Bias&lt;/strong&gt;: Short&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Why&lt;/strong&gt;: This still seems overbought to me. If it can’t break 20.50 may have big red day.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Trade Plan:&lt;/strong&gt; Not going to take any risks with this one. Want to see a strong open, with failed tests of 20.50 level then lower highs. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Levels of Interest&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Resistance: $20.50&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+</summary>
+      <id>http://www.iamnotaninvestor.com/2016/06/scan-for-2016-06-30.html</id>
+      <updated>2016-06-29T00:00:00-04:00</updated>
       <author>
         <name>iamnotaninvestor</name>
       </author>
@@ -160,6 +252,18 @@
 &lt;/ul&gt;
 
 &lt;hr /&gt;
+
+&lt;h2 id=&quot;paper-trades-section-added-2016-06-29-184455&quot;&gt;Paper Trades (Section Added: 2016-06-29 18:44:55):&lt;/h2&gt;
+&lt;p&gt;Some good plays on scan but I did a bad job on entries, missing some and chasing others. &lt;/p&gt;
+
+&lt;div style=&quot;height:500px; width:100%&quot;&gt;
+&lt;div style=&quot;float:left; margin-right:100px;&quot;&gt;
+&lt;script src=&quot;https://www.tradervue.com/sharedt.js?id=4685322&amp;amp;width=464&quot;&gt;&lt;/script&gt;
+&lt;/div&gt;
+&lt;div style=&quot;float:left;&quot;&gt;
+&lt;script src=&quot;https://www.tradervue.com/sharedt.js?id=4686736&amp;amp;width=464&quot;&gt;&lt;/script&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 </summary>
       <id>http://www.iamnotaninvestor.com/2016/06/scan-for-2016-06-29.html</id>
       <updated>2016-06-28T00:00:00-04:00</updated>

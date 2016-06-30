@@ -117,3 +117,17 @@ ME: Overbought
 * Support: $19.50, $18.50
 
 ***
+
+
+Paper Trades (Section Added: 2016-06-29 18:44:55):
+---
+Some good plays on scan but I did a bad job on entries, missing some and chasing others. 
+
+<div style="height:500px; width:100%">
+<div style="float:left; margin-right:100px;">
+<script src='https://www.tradervue.com/sharedt.js?id=4685322&width=464'></script>
+</div>
+<div style="float:left;">
+<script src='https://www.tradervue.com/sharedt.js?id=4686736&width=464'></script>
+</div>
+</div>

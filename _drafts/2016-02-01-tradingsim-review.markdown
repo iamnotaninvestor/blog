@@ -10,6 +10,13 @@ date:   2016-06-30 17:03:00
 #Thoughts on Paper Trading
 The benefits of paper trading are debatable and contentious. For me, paper trading is important up to a point. At its simplest, trading can be broken into plan and execution
 
+
+There are two questions you have to ask:
+
+1. Will the market behave the same way when paper trading as it does in real life? The answer is, probably not. Your orders won't be filled, you may have more slippage or miss out on trades completely. 
+2. Will *you* behave the same when trading real money versus fake money. Definitely not. 
+
+
  I personally use two tiers of paper tradings. I use Tradingsim, which I'll review later in this post, to test strategies in my downtime. Firstly 
 
 
