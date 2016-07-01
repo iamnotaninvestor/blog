@@ -1,0 +1,80 @@
+---
+title: Day Trading Scan For Trading Date 2016.07.01
+layout: post
+category: scans
+---
+
+Overview
+--- 
+
+**Note:** Tomorrow is the final trading day before the 4th of July holiday. Trading could be thinner than usual and breakouts/breakdowns that otherwise might happen may not. 
+
+Moving forward my goal is to have good long and short options every day, ideally providing setups regardless of the general market trend. In the short term my goals are a) to diversify my screeners to catch more oppportunities b) to trade by alerts rather than watching these tickers and anticipating trades and c) to log the trades (paper, for now) that I do make (see the revision to yesterday's scans)
+
+**Disclaimer:** I am not a broker or dealer. I am not qualified nor do I wish to offer investment or financial advice. I am publishing these trades for my own educational purposes. My theses may be incorrect and trading these tickers may result in financial loss/ruin. All trades undertaken are done so at your own risk.
+
+***
+
+CAR (Previous Close: <mark>32.23</mark> | ATR: <mark>$1.71</mark>)
+---
+**Bias**: Long
+
+**Why**: Had this as a short a few days ago awaiting consolidation. Consolidation occorred and back into upward trend. Think this can go higher. 
+
+**Trade Plan:** Hold 32.20s and higher lows. If it gaps up, wait for pullback and higher lows, then risk of prior low
+
+**Levels of Interest**:
+
+* Support: 31.60
+* Resistance: 34.70
+
+***
+
+FEYE (Previous Close: <mark>16.47</mark> | ATR: <mark>$0.87</mark>)
+---
+**Bias**: Long
+
+**Why**: Potential breakout here. Temporarily broke through downward trend (that started in December) today and am interested in a potential breakout if it can retake this level.
+
+**Trade Plan:** Needs to break through 16.50s, confirm this level, and show higher lows. Double top at 17s so need to be careful with this one.
+
+**Levels of Interest**:
+
+* Support: 15.50s
+* Resistance 17.10
+
+***
+
+FINL (Previous Close: <mark>20.07</mark> | ATR: <mark>$0.83</mark>)
+---
+{% comment %}
+ME: Overbought
+{% endcomment %}
+**Bias**: Short
+
+**Why**: Still on scan. Another green day but volume seems to be lessening and finished mid-range again. This still seems overbought to me. If it can't break 20.50 may have big red day.
+
+**Trade Plan:** Not going to take any risks with this one. Want to see a strong open, with failed tests of 20.50 level then lower highs. 
+
+**Levels of Interest**:
+
+* Resistance: $20.50
+
+***
+
+
+CCI (Previous Close: <mark>100.33</mark> | ATR: <mark>$1.26</mark>)
+---
+{% comment %}
+ME: Overbought
+{% endcomment %}
+**Bias**: Short
+
+**Why**: Still think it needs to pull back before going *too* much higher. Big upward move without much consolidation...
+
+**Trade Plan:** Ideally failed 102 push and then lower highs. Will only trade this on pullback with set risk and lower highs.
+
+**Levels of Interest**:
+
+* Resistance: $102
+
