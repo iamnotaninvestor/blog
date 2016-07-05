@@ -78,3 +78,15 @@ ME: Overbought
 
 * Resistance: $102
 
+***
+
+Paper Trades (Section Added: 2016-07-05 00:07:24):
+---
+Trailing stop was too narrow and I got stopped out. Unfortunate and avoidable.
+
+<div style="height:500px; width:100%">
+<div style="float:left; margin-right:100px;">
+<script src='https://www.tradervue.com/sharedt.js?id=4692659&width=600'></script>
+</div>
+</div>
+

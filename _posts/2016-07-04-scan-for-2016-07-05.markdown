@@ -1,0 +1,75 @@
+---
+title: Day Trading Scan For Trading Date 2016.07.01
+layout: post
+category: scans
+---
+
+Overview
+--- 
+
+**Disclaimer:** I am not a broker or dealer. I am not qualified nor do I wish to offer investment or financial advice. I am publishing these trades for my own educational purposes. My theses may be incorrect and trading these tickers may result in financial loss/ruin. All trades undertaken are done so at your own risk.
+
+***
+
+CCI (Previous Close: <mark>100.33</mark> | ATR: <mark>1.26</mark>)
+---
+{% comment %}
+ME: Overbought
+{% endcomment %}
+**Bias**: Short
+
+**Why**: Keeping this on scan for now. Still think it needs to pull back before going *too* much higher. Big upward move without much consolidation...
+
+**Trade Plan:** Ideally failed 102 push and then lower highs. Will only trade this on pullback with set risk and lower highs.
+
+**Levels of Interest**:
+
+* Resistance: $102
+
+***
+
+GRUB (Previous Close: <mark>30.77</mark> | ATR: <mark>1.18</mark>)
+---
+**Bias**: Short
+
+**Why**: Short biased on this one. Getting into overbought territory. Last two days green, but closed at bottom of range 
+
+**Trade Plan:** Ideally <mark>31 push and fail</mark>, then confirmation. If push and fail will short with risk at this level. 
+
+**Levels of Interest**:
+
+* Resistance: $31
+* Support: $29
+
+***
+
+LL (Previous Close: <mark>15.88</mark> | ATR: <mark>0.75</mark>)
+---
+**Bias**: Short
+
+**Why**: Looks overbought and has failed 16 numerous times. May breakthrough, but I expect a little pullback first
+
+**Trade Plan:** Ideally <mark>16 push and fail</mark>, then confirmation of downard trend.  
+
+**Levels of Interest**:
+
+* Resistance: $16
+
+***
+
+PAYX (Previous Close: <mark>15.88</mark> | ATR: <mark>0.75</mark>)
+---
+**Bias**: Short
+
+**Why**: Huge upward movement without consolidation. Potential for pullback as it travels towards 60 magnet.
+
+**Trade Plan:** Ideally <mark>60 push and fail</mark>, then confirmation of downard trend.  
+
+**Levels of Interest**:
+
+* Resistance: $60
+
+***
+
+
+
