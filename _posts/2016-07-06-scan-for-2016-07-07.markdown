@@ -1,0 +1,101 @@
+---
+title: Day Trading Scan For Trading Date 2016.07.07
+layout: post
+category: scans
+---
+
+Overview
+--- 
+
+**Disclaimer:** I am not a broker or dealer. I am not qualified nor do I wish to offer investment or financial advice. I am publishing these trades for my own educational purposes. My theses may be incorrect and trading these tickers may result in financial loss/ruin. All trades undertaken are done so at your own risk.
+
+***
+
+BURL (Previous Close: <mark>66.88</mark> | ATR: <mark>1.61</mark>)
+---
+{% comment %}
+ME: Overbought
+{% endcomment %}
+**Bias**: Short
+
+**Why**: Same as today. Looks a bit overextended and may need to consolidate a little.
+
+**Trade Plan:** Ideally multiple failing tests of 68 level followed by lower highs. If opens weak, wait for pullback and risk on yesterday's close.
+
+**Levels of Interest**:
+
+* Support: $64
+* Resistance: $68, $67
+
+***
+
+MBLY (Previous Close: <mark>45.03</mark> | ATR: <mark>2.03</mark>)
+---
+{% comment %}
+ME: Overbought
+{% endcomment %}
+**Bias**: Short
+
+**Why**: Keeping on scan. Looks overbought to me. Red day yesterday and closed near bottom of today's range. Looking for another red day and ideally some of the gap to be filled.
+
+**Trade Plan:** Need to see it fail 45 and show downward progress. ATR is wide given stock price, so need to be careful with entry.
+
+**Levels of Interest**:
+
+* Support: $64
+* Resistance: $68, $67
+
+***
+
+CCI (Previous Close: <mark>102.56</mark> | ATR: <mark>1.34</mark>)
+---
+{% comment %}
+ME: Overbought
+{% endcomment %}
+**Bias**: Short
+
+**Why**: Keeping this on scan for now but may not be in play for a few more days. Still think it needs to pull back before going *too* much higher. Big upward move without much consolidation...
+
+**Trade Plan:** Waiting for failed 102 or 105 push and then lower highs. Will only trade this on pullback with set risk and lower highs.
+
+**Levels of Interest**:
+
+* Resistance: $102, $105
+
+***
+
+NVDA (Previous Close: <mark>47.65</mark> | ATR: <mark>1.13</mark>)
+---
+{% comment %}
+ME: Long Term Breakout
+{% endcomment %}
+**Bias**: Long
+
+**Why**: Nice upward move in May followed by consolidation in June.  Upward progress today. Might not be an immediate play, but if it can break and hold 48, I like this for a move towards 50.
+
+**Trade Plan:** Breaks and confirms 48, shows higher lows.
+
+**Levels of Interest**:
+
+* Resistance: $47.75
+* Support: 46.15
+
+***
+
+ZG (Previous Close: <mark>35.87</mark> | ATR: <mark>1.16</mark>)
+---
+{% comment %}
+ME: Long Term Breakout
+{% endcomment %}
+**Bias**: Long
+
+**Why**: Nice upward trend starting in April. Near bottom of range but seems to have found support at long term breakout 35 level.
+
+**Trade Plan:** Needs to hold 35 and show higher lows.
+
+**Levels of Interest**:
+
+* Support: 35
+
+***
+
