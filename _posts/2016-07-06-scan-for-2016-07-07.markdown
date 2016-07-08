@@ -99,3 +99,14 @@ ME: Long Term Breakout
 
 ***
 
+Paper Trades (Section Added: 2016-07-07 18:18:02):
+---
+
+<div style="height:500px; width:100%">
+<div style="float:left; margin-right:100px;">
+<script src='https://www.tradervue.com/sharedt.js?id=4704349&width=600'></script>
+</div>
+</div>
+
+
+

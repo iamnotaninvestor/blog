@@ -1,0 +1,80 @@
+---
+title: Day Trading Scan For Trading Date 2016.07.08
+layout: post
+category: scans
+---
+
+Overview
+--- 
+
+**Disclaimer:** I am not a broker or dealer. I am not qualified nor do I wish to offer investment or financial advice. I am publishing these trades for my own educational purposes. My theses may be incorrect and trading these tickers may result in financial loss/ruin. All trades undertaken are done so at your own risk.
+
+***
+
+NVDA (Previous Close: <mark>47.65</mark> | ATR: <mark>1.13</mark>)
+---
+{% comment %}
+ME: Long Term Breakout
+{% endcomment %}
+**Bias**: Long
+
+**Why**: All the same reasons as before. I had a decent trade on this ticker today but exited prematurely, minimizing profits. I still like this for a move towards 50.
+
+**Trade Plan:** Breaks and confirms 49, shows higher lows.
+
+**Levels of Interest**:
+
+* Resistance: $49, $50
+
+***
+
+ZG (Previous Close: <mark>35.87</mark> | ATR: <mark>1.16</mark>)
+---
+{% comment %}
+ME: Long Term Breakout
+{% endcomment %}
+**Bias**: Long
+
+**Why**: I want to keep this on scan for potential breakout to 40. May consolidate a little before further upward movement - ~7 green days in a row, with diminishing volume.
+
+**Trade Plan:** Needs to hold 36 and show higher lows.
+
+**Levels of Interest**:
+
+* Support: 35
+
+***
+
+CLVS (Previous Close: <mark>14.70</mark> | ATR: <mark>1.12</mark>)
+---
+{% comment %}
+ME: Potential Breakout
+{% endcomment %}
+**Bias**: Long
+
+**Why**: Crossed SMA20 and SMA50. Can push to 17 if 15 holds.
+
+**Trade Plan:** Weak open, hold 14 and show higher lows or strong open, re-test and confirm 15 and higher lows.
+
+**Levels of Interest**:
+
+* Support: 14.10, 14
+* Resistance: 17.30
+
+***
+
+
+CCI (Previous Close: <mark>102.56</mark> | ATR: <mark>1.34</mark>)
+---
+{% comment %}
+ME: Overbought
+{% endcomment %}
+**Bias**: Short
+
+**Why**: Starting to question this plan, but will keepon radar for now in case there is a big pullback. Could be a case that the consolidation is over and this is going to head higher.
+
+**Trade Plan:** Waiting for failed 102 or 105 push and then lower highs. Will only trade this on pullback with set risk and lower highs.
+
+**Levels of Interest**:
+
+* Resistance: $102, $105
