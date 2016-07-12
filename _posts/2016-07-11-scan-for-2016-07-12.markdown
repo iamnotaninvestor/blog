@@ -1,0 +1,82 @@
+---
+title: Day Trading Scan For Trading Date 2016.07.12
+layout: post
+category: scans
+---
+
+Overview
+--- 
+
+**Disclaimer:** I am not a broker or dealer. I am not qualified nor do I wish to offer investment or financial advice. I am publishing these trades for my own educational purposes. My theses may be incorrect and trading these tickers may result in financial loss/ruin. All trades undertaken are done so at your own risk.
+
+***
+
+BBBY (Previous Close: <mark>45.15</mark> | ATR: <mark>1.26</mark>)
+---
+{% comment %}
+ME: Potential Breakout
+{% endcomment %}
+**Bias**: Long
+
+**Why**: At a key level right now, with increasing volume over the last couple of days. Looks to have a solid foundation at 42s
+
+**Trade Plan:** Ideally I'd like to see a test and confirmation of 45 prior to entry. 
+
+**Levels of Interest**:
+
+* Resistance: $45.20
+
+***
+
+SHAK (Previous Close: <mark>37.49</mark> | ATR: <mark>1.41</mark>)
+---
+{% comment %}
+ME: Potential Breakout
+{% endcomment %}
+**Bias**: Long
+
+**Why**: Also at a key level right now. Decent upward move today. If this breaks through 38.50 could attempt to fill March gap.
+
+**Trade Plan:** Want to see resistance at 37.20s become support for push towards 38.50. Ideally pullback to 37.20s and higher lows for entry
+
+**Levels of Interest**:
+
+* Support: $37.20
+* Resistance: $38, $38.50
+
+***
+
+ATVI (Previous Close: <mark>42.20</mark> | ATR: <mark>1.04</mark>)
+---
+{% comment %}
+ME: Overbought
+{% endcomment %}
+**Bias**: Short
+
+**Why**: This is going straight up. Want this on scan on correction day
+
+**Trade Plan:** Don't try to guess top here. Wait for lower highs to confirm and risk of previous high. Need tight stop.
+
+
+***
+
+
+CCI (Previous Close: <mark>102.56</mark> | ATR: <mark>1.34</mark>)
+---
+{% comment %}
+ME: Overbought
+{% endcomment %}
+**Bias**: Short
+
+**Why**: Really tired of this one but want on radar in case there is a big pullback.
+
+**Trade Plan:** Waiting for this to break below 100, re-test and fail. Will only trade this on pullback with set risk and lower highs.
+
+**Levels of Interest**:
+
+* Resistance: $100
+
+***
+
+
+
