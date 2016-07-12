@@ -61,7 +61,7 @@ ME: Overbought
 ***
 
 
-CCI (Previous Close: <mark>102.56</mark> | ATR: <mark>1.34</mark>)
+CCI (Previous Close: <mark>100.54</mark> | ATR: <mark>1.42</mark>)
 ---
 {% comment %}
 ME: Overbought
