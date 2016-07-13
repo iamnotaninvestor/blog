@@ -1,0 +1,107 @@
+---
+title: Day Trading Scan For Trading Date 2016.07.13
+layout: post
+category: scans
+---
+
+Overview
+--- 
+
+**Disclaimer:** I am not a broker or dealer. I am not qualified nor do I wish to offer investment or financial advice. I am publishing these trades for my own educational purposes. My theses may be incorrect and trading these tickers may result in financial loss/ruin. All trades undertaken are done so at your own risk.
+
+***
+
+Data (Previous Close: <mark>53.13</mark> | ATR: <mark>1.76</mark>)
+---
+{% comment %}
+ME: Potential Breakout
+{% endcomment %}
+**Bias**: Long
+
+**Why**: Big move today. Broke through 20/50 EMA
+
+**Trade Plan:** Ideally week open, test and confirm 53 and make higher lows. Looking for a big run towards 56
+
+**Levels of Interest**:
+
+* Resistance: $56
+
+***
+
+M (Previous Close: <mark>16.71</mark> | ATR: <mark>0.78</mark>)
+---
+{% comment %}
+ME: Potential Breakout
+{% endcomment %}
+**Bias**: Long
+
+**Why**: I like how this chart looks. Steady upward progress and took out long term resistance today. may attempt gap fill in short term. 
+
+**Trade Plan:** Want to see 35.50 (or 35, depending on open) holding and putting in higher lows. Looking for a push above 36 and ideally a big candle attempting gap fill to 37.
+
+**Levels of Interest**:
+
+* Support: $35.50, $35
+* Resistance: $37
+
+***
+
+TRIP (Previous Close: <mark>69.72</mark> | ATR: <mark>1.94</mark>)
+---
+{% comment %}
+ME: Potential Breakout
+{% endcomment %}
+**Bias**: Long
+
+**Why**: Potential 200 SMA breakout on the cards as well as big magnet at 70. 
+
+**Trade Plan:** This has had about 10 green days in a row, so may need some consolidation before making push through 70 and 200 SMA. Ideally weak open for accumulation with confirmation of 69 (or even 69.50 levels) for entry.
+
+**Levels of Interest**:
+
+* Support: $67.50
+* Resistance: $70, $70.40, $71.60
+
+***
+
+ATVI (Previous Close: <mark>42.66</mark> | ATR: <mark>1.03</mark>)
+---
+{% comment %}
+ME: Overbought
+{% endcomment %}
+**Bias**: Short
+
+**Why**: Same as yesterday. This is going straight up. Want this on scan on correction day. 
+
+**Trade Plan:** Don't try to guess top here. Wait for lower highs to confirm and risk of previous high. Trades closely with SPY so a red market day may provide opportunity. 
+
+***
+
+DKS (Previous Close: <mark>48.75</mark> | ATR: <mark>1.19</mark>)
+---
+{% comment %}
+ME: Overbought
+{% endcomment %}
+**Bias**: Short
+
+**Why**: Huge run up but last couple of days despite being green on good volume have closed near bottom of day's range. Might pull back before heading towards 50.
+
+**Trade Plan:** Ideally failed push towards 49 and lower highs. If pushes above 49, wait for failed follow through or wait to see what happens at 50, potentially with same plan at that pricepoint.
+
+***
+
+CCI (Previous Close: <mark>100.54</mark> | ATR: <mark>1.42</mark>)
+---
+{% comment %}
+ME: Overbought
+{% endcomment %}
+**Bias**: Short
+
+**Why**: Really tired of this one but want on radar in case there is a big pullback.
+
+**Trade Plan:** Plan is same as yesterday, though hopefully I trade it better. Look for this to break below 100, re-test and fail. Will only trade this on pullback with set risk and lower highs.
+
+**Levels of Interest**:
+
+* Resistance: $100
+

@@ -78,5 +78,14 @@ ME: Overbought
 
 ***
 
+Paper Trades (Section Added: 2016-07-12 21:16:56):
+---
+
+<div style="height:500px; width:100%">
+<div style="float:left; margin-right:100px;">
+<script src='https://www.tradervue.com/sharedt.js?id=4712576&width=600'></script>
+</div>
+</div>
+
 
 
