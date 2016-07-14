@@ -1,0 +1,123 @@
+---
+title: Day Trading Scan For Trading Date 2016.07.14
+layout: post
+category: scans
+---
+
+Overview
+--- 
+
+**Disclaimer:** I am not a broker or dealer. I am not qualified nor do I wish to offer investment or financial advice. I am publishing these trades for my own educational purposes. My theses may be incorrect and trading these tickers may result in financial loss/ruin. All trades undertaken are done so at your own risk.
+
+***
+
+M (Previous Close: <mark>16.71</mark> | ATR: <mark>0.78</mark>)
+---
+{% comment %}
+ME: Potential Breakout
+{% endcomment %}
+**Bias**: Long
+
+**Why**: Keeping this on scan from yesterday. I still like how this chart looks. Steady upward progress and took out long term resistance today. may attempt gap fill in short term. 
+
+**Trade Plan:** Want to see 35.50 (or 35, depending on open) holding and putting in higher lows. Looking for a push above 36 and ideally a big candle attempting gap fill to 37.
+
+**Levels of Interest**:
+
+* Support: $35.50, $35
+* Resistance: $37
+
+***
+
+NFLX (Previous Close: <mark>96.43</mark> | ATR: <mark>1.79</mark>)
+---
+{% comment %}
+ME: Potential Breakout
+{% endcomment %}
+**Bias**: Long
+
+**Why**: Looks ripe for a breakout towards 100. Sitting above SMA 20 and 50 and ready to break through downward channel (started in December)
+
+**Trade Plan:** Ideally weak open for accumulation with support confirming at 95, higher lows, etc.
+
+**Levels of Interest**:
+
+* Resistance: $97.50
+* Support: 95
+
+***
+
+TRIP (Previous Close: <mark>68.59</mark> | ATR: <mark>1.94</mark>)
+---
+{% comment %}
+ME: Potential Breakout
+{% endcomment %}
+**Bias**: Long
+
+**Why**: Potential 200 SMA breakout on the cards as well as big magnet at 70. 
+
+**Trade Plan:** This has had about 10 green days in a row, so may need some consolidation before making push through 70 and 200 SMA. Ideally weak open for accumulation with confirmation of 69 (or even 69.50 levels) for entry.
+
+**Levels of Interest**:
+
+* Support: $67.50
+* Resistance: $70, $70.40, $71.60
+
+***
+
+BURL (Previous Close: <mark>66.76</mark> | ATR: <mark>1.32</mark>)
+---
+{% comment %}
+ME: Overbought
+{% endcomment %}
+**Bias**: Short
+
+**Why**: Looks a bit overextended. Four red days in a row and closed at bottom of today's trading range. 
+
+**Trade Plan:** Ideally push and fail on 67, followed by lower highs. 
+
+**Levels of Interest**:
+
+* Support: $64.40s
+* Resistance: $68, $67
+
+***
+
+NVDA (Previous Close: <mark>52.78</mark> | ATR: <mark>1.22</mark>)
+---
+{% comment %}
+ME: Overbought
+{% endcomment %}
+**Bias**: Short
+
+**Why**: Recently had this as a long play, but looks a bit overextended. 
+
+**Trade Plan:** Ideally push and fail on 53.50, followed by lower highs. If weak open, wait for pullback and trade with risk on yesterday's close.
+
+**Levels of Interest**:
+
+* Resistance: $53.30
+
+***
+
+PYPL (Previous Close: <mark>39.28</mark> | ATR: <mark>0.81</mark>)
+---
+{% comment %}
+ME: Overbought
+{% endcomment %}
+**Bias**: Short
+
+**Why**: Not 100% confident on this one but want to watch the push to 40 for potential fail. Seems a bit over extended. Good volume today but closed right in the middle of day's range. 
+
+**Trade Plan:** Ideally push and fail on 40, followed by lower highs. If weak open, wait for pullback and trade with risk on yesterday's close. 
+
+**Levels of Interest**:
+
+* Resistance: $40
+
+***
+
+
+
+
+

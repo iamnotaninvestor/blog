@@ -105,3 +105,16 @@ ME: Overbought
 
 * Resistance: $100
 
+Paper Trades (Section Added: 2016-07-13 20:15:47):
+---
+Some good plays on scan but I did a bad job on entries, missing some and chasing others. 
+
+<div style="height:500px; width:100%">
+<div style="float:left; margin-right:100px;">
+<script src='https://www.tradervue.com/sharedt.js?id=4714631&width=464'></script>
+</div>
+<div style="float:left;">
+<script src='https://www.tradervue.com/sharedt.js?id=4714721&width=464'></script>
+</div>
+</div>
+
