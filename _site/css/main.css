@@ -1,3 +1,4 @@
+
 /* 
 Title: Hikari
 Description: : A responsive & simple theme for Jekyll
@@ -597,4 +598,19 @@ section#single-wrap blockquote p {
 
   .highlight { padding: 10px 5px; margin: 30px 20px 40px; }
 
+}
+
+mark.short{
+  background-color: red;
+  
+}
+
+mark.long{
+  background-color: green;
+}
+
+mark.short, mark.long{ 
+  color:white;
+  padding:4px;
+}
 }

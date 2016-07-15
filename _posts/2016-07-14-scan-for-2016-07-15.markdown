@@ -1,0 +1,92 @@
+---
+title: Day Trading Scan For Trading Date 2016.07.15
+layout: post
+category: scans
+---
+
+Overview
+--- 
+
+**Disclaimer:** I am not a broker or dealer. I am not qualified nor do I wish to offer investment or financial advice. I am publishing these trades for my own educational purposes. My theses may be incorrect and trading these tickers may result in financial loss/ruin. All trades undertaken are done so at your own risk.
+
+***
+
+ATVI (Previous Close: <mark>41.85</mark> | ATR: <mark>1.02</mark>)
+---
+{% comment %}
+ME: Overbought
+{% endcomment %}
+**Bias**: <mark class="short">Short</mark>
+
+**Why**: Had this on scan a couple of times in the past week. Want this on scan on correction day. 
+
+**Trade Plan:** Trades closely with SPY, so market will dicatate a lot. Ideally failed push towards 42 and lower highs. If pushes above 42, monitor whole/half dollar marks and failed follow through for entry.  
+**Levels of Interest**:
+
+* Support: $39.50
+
+***
+
+CCI (Previous Close: <mark>99.47</mark> | ATR: <mark>1.41</mark>)
+---
+{% comment %}
+ME: Overbought
+{% endcomment %}
+**Bias**: <mark class="short">Short</mark>
+
+**Why**: Steady downward trend over past week. Think this might have a big red day at some point soon.
+
+**Trade Plan:** Ideally strong open, 100 test and fail, higher lows. If weak open, wait for pullback before entry.
+
+**Levels of Interest**:
+
+* Resistance: $100
+
+***
+
+JWN (Previous Close: <mark>40.87</mark> | ATR: <mark>1.16</mark>)
+---
+{% comment %}
+ME: Overbought
+{% endcomment %}
+**Bias**: <mark class="short">Short</mark>
+
+**Why**: Looks like topping action with resistance on 42
+
+**Trade Plan:** Trades closely with SPY, so market will dicatate a lot. Ideally push on open, 41 test and fail, lower highs. Today's close (40.87) may be sitting on short term support, so want to see it fail this level before trading.
+
+**Levels of Interest**:
+
+* Resistance: $42
+* Support: 40.87
+
+***
+
+FEYE (Previous Close: <mark>16.55</mark> | ATR: <mark>0.77</mark>)
+---
+**Bias**: <mark class="long">Long</mark>
+
+**Why**: Am interested in a potential breakout if it can retake 17 level.
+
+**Trade Plan:** Needs to hold 16.50s, confirm this level, and show higher lows. 
+
+**Levels of Interest**:
+
+* Support: 16.50s
+* Resistance 17.20
+
+***
+
+CRUS (Previous Close: <mark>40.47</mark> | ATR: <mark>1.44</mark>)
+---
+**Bias**: <mark class="long">Long</mark>
+
+**Why**: Long term upward channel. Recovering well after gap down and can potentially take out long term high at 41.08
+
+**Trade Plan:** Ideally weak open and confirmation of 40. Risk off 40 for accumulation for move towards 41. 
+
+**Levels of Interest**:
+
+* Resistance 41.08
+
+***

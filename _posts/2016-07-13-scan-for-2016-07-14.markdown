@@ -117,6 +117,18 @@ ME: Overbought
 
 ***
 
+Paper Trades (Section Added: 2016-07-14 23:31:56):
+---
+A little like yesterday. One good, disciplined trade. One bad, indisciplined trade.
+
+<div style="height:500px; width:100%">
+<div style="float:left; margin-right:100px;">
+<script src='https://www.tradervue.com/sharedt.js?id=4717226&width=464'></script>
+</div>
+<div style="float:left;">
+<script src='https://www.tradervue.com/sharedt.js?id=4717234&width=464'></script>
+</div>
+</div>
 
 
 
