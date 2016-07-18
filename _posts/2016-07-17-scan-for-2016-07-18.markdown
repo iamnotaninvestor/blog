@@ -1,0 +1,127 @@
+---
+title: Day Trading Scan For Trading Date 2016.07.18
+layout: post
+category: scans
+---
+
+Overview
+--- 
+
+**Disclaimer:** I am not a broker or dealer. I am not qualified nor do I wish to offer investment or financial advice. I am publishing these trades for my own educational purposes. My theses may be incorrect and trading these tickers may result in financial loss/ruin. All trades undertaken are done so at your own risk.
+
+***
+
+DATA (Previous Close: <mark>53.27</mark> | ATR: <mark>1.59</mark>)
+---
+{% comment %}
+http://finviz.com/screener.ashx?v=211&f=geo_usa,sh_avgvol_o1000,sh_price_o15,ta_averagetruerange_o0.75,ta_pattern_tlsupport,ta_sma20_pa,ta_sma200_pb10,ta_sma50_pa&ft=4
+{% endcomment %}
+**Bias**: <mark class="long">Long</mark>
+
+**Why**: Steady upward channel originating in February
+
+**Trade Plan:** 
+
+Down after hours on Friday. Looking for a gap down and rebound for accumulation. Ideally dip to 51.50/52.
+
+**Levels of Interest**:
+
+Support: 52, 51.80, 50.50
+
+***
+
+SCTY (Previous Close: <mark>25.04</mark> | ATR: <mark>1.07</mark>)
+---
+{% comment %}
+http://finviz.com/screener.ashx?v=211&f=geo_usa,sh_avgvol_o1000,sh_price_o15,ta_averagetruerange_o0.75,ta_pattern_tlsupport,ta_sma20_pa,ta_sma200_pb10,ta_sma50_pa&ft=4
+{% endcomment %}
+**Bias**: <mark class="long">Long</mark>
+
+**Why**: Seems to have broken through May/Jun resistance levels. If it can hold 25, this could have a big green day. 
+
+**Trade Plan:** 
+
+Looking for confirmation that 25 level is solid and higher lows. Risk off 25. Don't enter if this drops below 25.
+
+**Levels of Interest**:
+
+Support: 25
+
+***
+
+ALK (Previous Close: <mark>65.04</mark> | ATR: <mark>1.63</mark>)
+---
+{% comment %}
+http://finviz.com/screener.ashx?v=211&f=geo_usa,sh_avgvol_o1000,sh_price_o15,ta_averagetruerange_o0.75,ta_pattern_tlsupport,ta_sma20_pa,ta_sma200_pb10,ta_sma50_pa&ft=4
+{% endcomment %}
+**Bias**: <mark class="long">Long</mark>
+
+**Why**: Steady upward trend with potential rally if it can break and hold 65. 
+
+**Trade Plan:** 
+
+Looking for 65 to hold and higher lows for potential rally. Would like to see 65 re-testing a few times prior to entering trade.
+
+**Levels of Interest**:
+
+Resistance: 25
+
+***
+
+IP (Previous Close: <mark>45.47</mark> | ATR: <mark>0.97</mark>)
+---
+{% comment %}
+http://finviz.com/screener.ashx?v=211&f=geo_usa,sh_avgvol_o1000,sh_opt_short,sh_price_o15,ta_averagetruerange_o0.75,ta_pattern_tlresistance2,ta_sma20_pa,ta_sma200_pa10,ta_sma50_pa&ft=4
+{% endcomment %}
+**Bias**: <mark class="short">Short</mark>
+
+**Why**: Big spike up, potentially overextended.
+
+**Trade Plan:** 
+
+Ideally test of 46, fail, re-test a couple of times, then lower highs. If gaps down, then same idea with test of 44.
+
+**Levels of Interest**:
+
+Resistance: 46
+
+***
+
+FOSL (Previous Close: <mark>45.47</mark> | ATR: <mark>0.97</mark>)
+---
+{% comment %}
+http://finviz.com/screener.ashx?v=211&f=geo_usa,sh_avgvol_o1000,sh_opt_short,sh_price_o15,ta_averagetruerange_o0.75,ta_pattern_wedgedown2&ft=4
+{% endcomment %}
+**Bias**: <mark class="short">Short</mark>
+
+**Why**: Double top, failed to hold key 30 level and looks like a downward trajectory.
+
+**Trade Plan:** 
+
+Ideally strong open, push above 29 and ideally towards 30. Watch for lower highs, wait for a pullback/2nd failure, for set risk.
+
+**Levels of Interest**:
+
+Resistance: 30, 29
+
+***
+
+BBBY (Previous Close: <mark>44.37</mark> | ATR: <mark>1.20</mark>)
+---
+{% comment %}
+http://finviz.com/screener.ashx?v=211&f=geo_usa,sh_avgvol_o1000,sh_opt_short,sh_price_o15,ta_averagetruerange_o0.75,ta_pattern_wedgesupport2&ft=4
+{% endcomment %}
+**Bias**: <mark class="short">Short</mark>
+
+**Why**: Had long previously but this looks like failed momentum. Could be a big move if it drops below SMA 20 and SMA 50 (which are in close proximity).
+
+**Trade Plan:** 
+
+Ideally strong open, push towards 45. Watch for lower highs, wait for a pullback/2nd failure, for set risk.
+
+**Levels of Interest**:
+
+Resistance: 45
+
+***
+

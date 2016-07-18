@@ -90,3 +90,15 @@ CRUS (Previous Close: <mark>40.47</mark> | ATR: <mark>1.44</mark>)
 * Resistance 41.08
 
 ***
+
+Paper Trades (Section Added: 2016-07-17 15:13:50):
+---
+
+<div style="height:500px; width:100%">
+<div style="float:left; margin-right:100px;">
+<script src='https://www.tradervue.com/sharedt.js?id=4718952&width=464'></script>
+</div>
+<div style="float:left;">
+<script src='https://www.tradervue.com/sharedt.js?id=4718906&width=464'></script>
+</div>
+</div>
