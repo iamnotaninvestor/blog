@@ -125,3 +125,12 @@ Resistance: 45
 
 ***
 
+Paper Trades (Section Added: 2016-07-18 22:53:55):
+---
+Wider trailing stop next time...
+
+<div style="height:500px; width:100%">
+<div style="float:left; margin-right:100px;">
+<script src='https://www.tradervue.com/sharedt.js?id=4722870&width=600'></script>
+</div>
+</div>

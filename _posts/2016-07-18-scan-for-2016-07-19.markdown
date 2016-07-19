@@ -1,0 +1,85 @@
+---
+title: Day Trading Scan For Trading Date 2016.07.19
+layout: post
+category: scans
+---
+
+Overview
+--- 
+
+**Disclaimer:** I am not a broker or dealer. I am not qualified nor do I wish to offer investment or financial advice. I am publishing these trades for my own educational purposes. My theses may be incorrect and trading these tickers may result in financial loss/ruin. All trades undertaken are done so at your own risk.
+
+***
+
+SCTY (Previous Close: <mark>26.14</mark> | ATR: <mark>1.07</mark>)
+---
+{% comment %}
+http://finviz.com/screener.ashx?v=211&f=geo_usa,sh_avgvol_o1000,sh_price_o15,ta_averagetruerange_o0.75,ta_pattern_tlsupport,ta_sma20_pa,ta_sma200_pb10,ta_sma50_pa&ft=4
+{% endcomment %}
+**Bias**: <mark class="long">Long</mark>
+
+**Why**: Decent trade today. I think this can still go higher. If it can hold 26, this could have a big green day. 
+
+**Trade Plan:** 
+
+Looking for confirmation that 26 level is solid and higher lows. Risk off 26. Don't enter if this drops below 26.
+
+**Levels of Interest**:
+
+Support: 26
+
+***
+
+M (Previous Close: <mark>35.25</mark> | ATR: <mark>0.94</mark>)
+---
+{% comment %}
+http://finviz.com/screener.ashx?v=211&f=geo_usa,sh_avgvol_o1000,sh_price_o15,ta_averagetruerange_o0.75,ta_pattern_tlsupport,ta_sma20_pa,ta_sma200_pb10,ta_sma50_pa&ft=4
+{% endcomment %}
+**Bias**: <mark class="long">Long</mark>
+
+**Why**: Funny how the same tickers show up on scan over and over again...35 level is key and if this can break upwards there's not much resistance before 37
+
+**Trade Plan:** Ideally weak open, confirmation that 35 holds and higher lows for accumulation. Keep an eye on SPY as this could potentially tank on a big red day.
+
+**Levels of Interest**:
+
+* Support: $35
+* Resistance: $37
+
+***
+
+OMC (Previous Close: <mark>83.04</mark> | ATR: <mark>1.71</mark>)
+---
+{% comment %}
+http://finviz.com/screener.ashx?v=211&f=geo_usa,sh_avgvol_o1000,sh_opt_short,sh_price_o15,ta_averagetruerange_o0.75,ta_pattern_multipletop&ft=4
+{% endcomment %}
+**Bias**: <mark class="short">Short</mark>
+
+**Why**: Big resistance at 85. Straddling SMA 20 and 50. Green day today but finished mid range. Could be a big downward move coming.
+
+**Trade Plan:** Ideally strong open or gap up for a failed upward move towards 85. Lower highs and set risk off 85 or prior high.
+
+**Levels of Interest**:
+
+* Resistance: $85
+
+***
+
+FL (Previous Close: <mark>58.81</mark> | ATR: <mark>1.05</mark>)
+---
+{% comment %}
+http://finviz.com/screener.ashx?v=211&f=sh_avgvol_o750,ta_averagetruerange_o0.75,ta_sma20_pa,ta_sma200_pb,ta_sma50_pa&ft=4&r=21
+{% endcomment %}
+**Bias**: <mark class="short">Short</mark>
+
+**Why**: Could easily continue higher but interested in downward trend starting in February. Could be some nice red days as this level is approached. 
+
+**Trade Plan:** Ideally strong open, attempted push to 60, fail, lower highs. Set risk of 60 or previous highs.
+
+**Levels of Interest**:
+
+* Resistance: 60
+
+***
+
+
