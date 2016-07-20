@@ -1,0 +1,84 @@
+---
+title: Day Trading Scan For Trading Date 2016.07.20
+layout: post
+category: scans
+---
+
+Overview
+--- 
+
+**Disclaimer:** I am not a broker or dealer. I am not qualified nor do I wish to offer investment or financial advice. I am publishing these trades for my own educational purposes. My theses may be incorrect and trading these tickers may result in financial loss/ruin. All trades undertaken are done so at your own risk.
+
+***
+
+SCTY (Previous Close: <mark>26.26</mark> | ATR: <mark>1.09</mark>)
+---
+{% comment %}
+http://finviz.com/screener.ashx?v=211&f=geo_usa,sh_avgvol_o1000,sh_price_o15,ta_averagetruerange_o0.75,ta_pattern_tlsupport,ta_sma20_pa,ta_sma200_pb10,ta_sma50_pa&ft=4
+{% endcomment %}
+**Bias**: <mark class="long">Long</mark>
+
+**Why**: This might be on scan for a few more days. I think this can still go higher. Held 26 today, could have a big green day soon. 
+
+**Trade Plan:** 
+
+Looking for confirmation that 26 level is solid and higher lows. Risk off 26. Don't enter if this drops below 26.
+
+**Levels of Interest**:
+
+Support: 26
+
+***
+
+COF (Previous Close: <mark>67.73</mark> | ATR: <mark>1.71</mark>)
+---
+{% comment %}
+http://finviz.com/screener.ashx?v=211&f=sh_avgvol_o750,sh_opt_short,sh_price_50to100,ta_averagetruerange_o1.5,ta_pattern_tlresistance,ta_sma20_pa,ta_sma200_pb,ta_sma50_pc&ft=4
+{% endcomment %}
+**Bias**: <mark class="short">Short</mark>
+
+**Why**: Four red days in and finished below SMA 50 today. Interested in what happens next, but think there may be a short trade her soon. 
+
+**Trade Plan:** Either push towards 70 and fail or increased selling under SMA 50. Looking for lower highs, high volume on red candles and pullback for entry.
+
+**Levels of Interest**:
+
+* Resistance: 70
+
+***
+
+RCL (Previous Close: <mark>67.73</mark> | ATR: <mark>1.71</mark>)
+---
+{% comment %}
+http://finviz.com/screener.ashx?v=211&f=sh_avgvol_o750,sh_opt_short,sh_price_50to100,ta_averagetruerange_o0.75,ta_sma20_pcb,ta_sma200_pb,ta_sma50_pb&ft=4
+{% endcomment %}
+**Bias**: <mark class="short">Short</mark>
+
+**Why**: Fighting SMA 20. Green day on Monday erased by red day today. If breaks through 70 could have big red candle. 
+
+**Trade Plan:** 70 is key level. Look for 70 fail and lower highs with set risk of 70. Don't trade above 70.
+
+**Levels of Interest**:
+
+* Support: 70
+
+***
+
+SNV (Previous Close: <mark>30.44</mark> | ATR: <mark>0.76</mark>)
+---
+{% comment %}
+http://finviz.com/screener.ashx?v=211&f=geo_usa,sh_avgvol_o1000,sh_price_o15,ta_averagetruerange_o0.75,ta_change_u,ta_pattern_tlsupport,ta_sma20_pa,ta_sma50_pca&ft=4
+{% endcomment %}
+**Bias**: <mark class="long">Long</mark>
+
+**Why**: Crossed through SMA 200 & SMA 50 today. Looking for continued momentum.
+
+**Trade Plan:** 
+
+Looking for confirmation that 30 level is solid and higher lows. If gaps up, wait for whole or half dollar tests before thinking of entering.
+
+**Levels of Interest**:
+
+Support: 30
+
+***

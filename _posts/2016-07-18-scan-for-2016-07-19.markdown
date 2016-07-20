@@ -82,4 +82,6 @@ http://finviz.com/screener.ashx?v=211&f=sh_avgvol_o750,ta_averagetruerange_o0.75
 
 ***
 
-
+Paper Trades (Section Added: 2016-07-19 22:38:06):
+---
+Missed entry on SCTY today and didn't end up trading. Mildly frustrating, but better than a chase and a loss...
