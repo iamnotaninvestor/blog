@@ -1,0 +1,82 @@
+---
+title: Day Trading Scan For Trading Date 2016.07.21
+layout: post
+category: scans
+---
+
+Overview
+--- 
+
+**Disclaimer:** I am not a broker or dealer. I am not qualified nor do I wish to offer investment or financial advice. I am publishing these trades for my own educational purposes. My theses may be incorrect and trading these tickers may result in financial loss/ruin. All trades undertaken are done so at your own risk.
+
+***
+
+SCTY (Previous Close: <mark>26.26</mark> | ATR: <mark>1.09</mark>)
+---
+{% comment %}
+http://finviz.com/screener.ashx?v=211&f=geo_usa,sh_avgvol_o1000,sh_price_o15,ta_averagetruerange_o0.75,ta_pattern_tlsupport,ta_sma20_pa,ta_sma200_pb10,ta_sma50_pa&ft=4
+{% endcomment %}
+**Bias**: <mark class="long">Long</mark>
+
+**Why**: This might be on scan for a few more days. I think this can still go higher. Nice move today. Annoyed I wasn't in. If it breaks 27 it could have a big green day soon. 
+
+**Trade Plan:** 
+
+Ideally some pullback and confirmation of 26.50, then higher lows. Otherwise confirm 27
+
+**Levels of Interest**:
+
+Support: 26
+
+***
+
+DATA (Previous Close: <mark>57.03</mark> | ATR: <mark>1.72</mark>)
+---
+{% comment %}
+http://finviz.com/screener.ashx?v=211&f=geo_usa,sh_avgvol_o1000,sh_price_o15,ta_averagetruerange_o0.75,ta_pattern_tlsupport,ta_sma20_pa,ta_sma200_pb10,ta_sma50_pa&ft=4
+{% endcomment %}
+**Bias**: <mark class="long">Long</mark>
+
+**Why**: Super annoyed at this. Has been on and off scan for a while. Took it off today and it jumped 6%.  There is a lot of potential upside here, with no resistance in sight.  
+
+**Trade Plan:** 
+
+Want to see what happens at 57. If it holds, this can make a move towards 60. If 57 fails, wait to see what happens at 56.20s support level. 
+
+**Levels of Interest**:
+
+Support: 57, 56.20
+
+***
+
+COF (Previous Close: <mark>67.61</mark> | ATR: <mark>1.67</mark>)
+---
+{% comment %}
+http://finviz.com/screener.ashx?v=211&f=sh_avgvol_o750,sh_opt_short,sh_price_50to100,ta_averagetruerange_o1.5,ta_pattern_tlresistance,ta_sma20_pa,ta_sma200_pb,ta_sma50_pc&ft=4
+{% endcomment %}
+**Bias**: <mark class="short">Short</mark>
+
+**Why**: OK trade on this today. Still interested in a short here. Another red day and failed SMA 50 today. 
+
+**Trade Plan:** Either push towards 68 and fail or increased selling under SMA 50. Looking for lower highs, high volume on red candles and pullback for entry.
+
+**Levels of Interest**:
+
+* Resistance: 68, 67.70s (SMA 50)
+
+***
+
+MANH (Previous Close: <mark>61.31</mark> | ATR: <mark>2.25</mark>)
+---
+{% comment %}
+http://finviz.com/screener.ashx?v=211&f=sh_avgvol_o750,sh_opt_short,sh_price_50to100,ta_averagetruerange_o0.75,ta_sma20_pcb,ta_sma200_pb,ta_sma50_pb&ft=4
+{% endcomment %}
+**Bias**: <mark class="short">Short</mark>
+
+**Why**: Big down day on earnings. Broke through SMAs and bottom of trend. This may drop in the morning. 
+
+**Trade Plan:** Weak open, lower highs on set risk. If gaps down, look at 60 level to risk off of.
+
+***
+
+
