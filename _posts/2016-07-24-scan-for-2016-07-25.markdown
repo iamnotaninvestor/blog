@@ -1,0 +1,70 @@
+---
+title: Day Trading Scan For Trading Date 2016.07.25
+layout: post
+category: scans
+---
+
+Overview
+--- 
+
+**Disclaimer:** I am not a broker or dealer. I am not qualified nor do I wish to offer investment or financial advice. I am publishing these trades for my own educational purposes. My theses may be incorrect and trading these tickers may result in financial loss/ruin. All trades undertaken are done so at your own risk.
+
+***
+
+SWKS (Previous Close: <mark>64.81</mark> | ATR: <mark>2.44</mark>)
+---
+{% comment %}
+http://finviz.com/screener.ashx?v=211&f=sh_avgvol_o750,sh_opt_short,sh_price_50to100,ta_averagetruerange_o1.5,ta_pattern_tlresistance,ta_sma20_pa,ta_sma200_pb,ta_sma50_pc&ft=4
+{% endcomment %}
+**Bias**: <mark class="short">Short</mark>
+
+**Why**: Down 8% Friday on poor earnings. Closed below SMA 50 after dip below SMA 20 but closed mid-range. Potential for more downward follow-through.
+
+**Trade Plan:** Want to see 65 level failing and acting as resistance with big volume. Has potential to drop $2-3.
+
+**Levels of Interest**:
+
+* Resistance: 65
+
+***
+
+AN (Previous Close: <mark>52.08</mark> | ATR: <mark>1.39</mark>)
+---
+{% comment %}
+http://finviz.com/screener.ashx?v=211&f=geo_usa,sh_avgvol_o1000,sh_price_o15,ta_averagetruerange_o1,ta_candlestick_lls,ta_change_u,ta_pattern_wedge2&ft=4
+{% endcomment %}
+**Bias**: <mark class="long">Long</mark>
+
+**Why**: Solid support at 50.75. Upward movement last few days and bottoming tail on Friday. Next resistance at ~53s then a lot of room for upward move.
+
+**Trade Plan:** 
+
+Test and hold 52 then put in higher lows. Typically trades fairly closely with SPY, so weak market might foil plan.
+
+**Levels of Interest**:
+
+Support: 52
+Resistance: 53 (whole $), 53.25, 53.75
+
+***
+
+MCHP (Previous Close: <mark>54.17</mark> | ATR: <mark>1.00</mark>)
+---
+{% comment %}
+http://finviz.com/screener.ashx?v=211&f=geo_usa,sh_avgvol_o750,sh_price_o7,ta_averagetruerange_o1,ta_candlestick_lls,ta_change_u,ta_pattern_channelup&ft=4
+{% endcomment %}
+**Bias**: <mark class="long">Long</mark>
+
+**Why**: Strikingly similar to AN setup. Upward movement last few days and bottoming tail on Friday. Next resistance at ~54.50s then a lot of room for upward move.
+
+**Trade Plan:** 
+
+Test and hold 54 then put in higher lows. Typically trades fairly closely with SPY, so weak market might foil plan.
+
+**Levels of Interest**:
+
+Support: 54
+Resistance: 54.50
+
+***
+

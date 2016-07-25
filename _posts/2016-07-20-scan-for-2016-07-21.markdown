@@ -79,4 +79,19 @@ http://finviz.com/screener.ashx?v=211&f=sh_avgvol_o750,sh_opt_short,sh_price_50t
 
 ***
 
+Paper Trades (Section Added: 2016-07-24 23:01:38):
+---
+Poor trading caused by indiscipline...
+
+<div style="height:500px; width:100%">
+<div style="float:left; margin-right:100px;">
+<script src='https://www.tradervue.com/sharedt.js?id=4730407&width=464'></script>
+</div>
+<div style="float:left;">
+<script src='https://www.tradervue.com/sharedt.js?id=4732696&width=464'></script>
+</div>
+<div style="float:left;">
+<script src='https://www.tradervue.com/sharedt.js?id=4730416&width=464'></script>
+</div>
+</div>
 
