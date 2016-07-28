@@ -1,0 +1,100 @@
+---
+title: Day Trading Scan For Trading Date 2016.07.28
+layout: post
+category: scans
+---
+
+Overview
+--- 
+
+**Disclaimer:** I am not a broker or dealer. I am not qualified nor do I wish to offer investment or financial advice. I am publishing these trades for my own educational purposes. My theses may be incorrect and trading these tickers may result in financial loss/ruin. All trades undertaken are done so at your own risk.
+
+***
+
+RCL (Previous Close: <mark>73.04</mark> | ATR: <mark>1.90</mark>)
+---
+{% comment %}
+http://finviz.com/screener.ashx?v=211&f=sh_avgvol_o750,sh_opt_short,sh_price_50to100,ta_averagetruerange_o1.5,ta_pattern_tlresistance,ta_sma20_pa,ta_sma200_pb,ta_sma50_pc&ft=4
+{% endcomment %}
+**Bias**: <mark class="short">Short</mark>
+
+**Why**: Same plan as today. Near top of downward trend and failed to break through SMA 50. Think this has a few red days coming. 
+
+**Trade Plan:** Ideally drop through 73 and failed retests. If it moves upwards, very interested in 74 mark as this marks the top of a downward trend that started in April; might be some resistance here.
+
+**Levels of Interest**:
+
+* Resistance: 74, 73
+
+***
+
+AMP (Previous Close: <mark>95.57</mark> | ATR: <mark>2.11</mark>)
+---
+{% comment %}
+http://finviz.com/screener.ashx?v=211&f=sh_avgvol_o750,sh_opt_short,sh_price_50to100,ta_averagetruerange_o1.5,ta_pattern_tlresistance,ta_sma20_pa,ta_sma200_pb,ta_sma50_pc&ft=4
+{% endcomment %}
+**Bias**: <mark class="short">Short</mark>
+
+**Why**: Looks to have resistnace at 97. Downward move today on earnings, dropping through SMA 50. 
+
+**Trade Plan:** Ideally push towards 97 an fail, followed by lower highs.
+
+**Levels of Interest**:
+
+* Resistance: 97
+
+***
+
+FOSL (Previous Close: <mark>31.23</mark> | ATR: <mark>1.29</mark>)
+---
+{% comment %}
+http://finviz.com/screener.ashx?v=211&f=geo_usa,sh_avgvol_o1000,sh_price_o15,ta_averagetruerange_o0.75,ta_pattern_tlsupport,ta_sma20_pa,ta_sma200_pb10,ta_sma50_pa&ft=4
+{% endcomment %}
+**Bias**: <mark class="long">Long</mark>
+
+**Why**: Good upward momentum. Big gap to fill if it can hold 31.50s.  
+
+**Trade Plan:** 
+
+Needs to break and hold 31.50 and move higher. 
+
+**Levels of Interest**:
+
+Resistance: 31.50
+
+***
+
+VFC (Previous Close: <mark>62.01</mark> | ATR: <mark>1.28</mark>)
+---
+{% comment %}
+http://finviz.com/screener.ashx?v=211&f=sh_avgvol_o750,sh_opt_short,sh_price_50to100,ta_averagetruerange_o0.75,ta_sma20_pcb,ta_sma200_pb,ta_sma50_pb&ft=4
+{% endcomment %}
+**Bias**: <mark class="short">Short</mark>
+
+**Why** Like how the chart looks. Nice downward move from 65. Broke below SMA 20 and 50. Topping candle and whole number break today. 
+
+**Trade Plan:** Ideally tests 62 a few times and fails. Nice to have a whole number to risk off. Could have a couple of dollar downward move in it soon.
+
+**Levels of Interest**:
+Support: 62
+
+***
+
+WCN (Previous Close: <mark>74.44</mark> | ATR: <mark>1.03</mark>)
+---
+{% comment %}
+http://finviz.com/screener.ashx?v=211&f=geo_usa,sh_avgvol_o1000,sh_opt_short,sh_price_o15,ta_averagetruerange_o0.75,ta_pattern_tlresistance2,ta_sma20_pa,ta_sma200_pa10,ta_sma50_pa&ft=4
+{% endcomment %}
+**Bias**: <mark class="long">Long</mark>
+
+**Why**: Red day today but I still like the look of this trading range and think there are more green days coming.
+
+**Trade Plan:** 
+
+74 confirmation and higher lows. If opens weak, look for support at 73 level.
+
+**Levels of Interest**:
+
+Support: 74, 73
+
+***
